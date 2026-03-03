@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Scratch/experimental files
+notebooks/1_data_preparation/Stations.txt
+notebooks/1_data_preparation/Stations.txt.filterline.txt
+notebooks/1_data_preparation/dsi_help.ipynb
+notebooks/1_data_preparation/ttc_exp.csv
