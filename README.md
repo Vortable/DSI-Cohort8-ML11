@@ -119,8 +119,8 @@ Mitigation:
 | 2021–2025 | Reviewing Data | All |
 | Thursday, Feb 26 | Document Business Objectives / Project Plan | All |
 | Saturday, Feb 28 | Data Cleaning | Wendy |
-| Monday, March 2 | EDA) / Feature Engineering| Nicole H |
-| Tuesday, March 3 | EDA  / Feature Engineering| Ivy |
+| Monday, March 2 | Data Preprocessing - Time & Day Categories | Nicole H |
+| Tuesday, March 3 | EDA / Feature Engineering| Nicole H / Ivy |
 | TBD | ML Development (Train/Test) | All |
 | TBD | Model Selection | All |
 | TBD | GitHub Documentation | Nicole Y / Ivy |
