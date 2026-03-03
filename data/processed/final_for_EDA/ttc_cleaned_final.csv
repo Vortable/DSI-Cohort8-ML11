@@ -153,6 +153,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,November,2022-11-14,7:46,Monday,bathurst,SUBT,21,24,E,BD,5223
 2022,January,2022-01-27,15:18,Thursday,bathurst,SUAP,25,29,E,BD,5365
 2022,May,2022-05-30,12:34,Monday,bathurst,SUDP,28,32,W,BD,5124
+2022,April,2022-04-06,20:29,Wednesday,bathurst,MUI,88,95,W,BD,5144
 2021,January,2021-01-27,16:02,Wednesday,bathurst,SUDP,5,8,W,BD,5112
 2021,April,2021-04-03,16:50,Saturday,bathurst,SUUT,5,9,W,BD,5052
 2021,May,2021-05-24,23:06,Monday,bathurst,EUNT,5,9,W,BD,5060
@@ -209,6 +210,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,November,2025-11-24,6:21,Monday,bay,MUPLA,19,23,E,BD,5070
 2025,March,2025-03-16,23:01,Sunday,bay,MUI,22,28,W,BD,5064
 2025,August,2025-08-07,0:34,Thursday,bay,SUO,27,33,E,BD,5177
+2025,December,2025-12-29,17:58,Monday,bay,MUPR1,65,68,W,BD,5136
+2026,January,2026-01-27,7:01,Tuesday,bay,SUUT,69,71,E,BD,5142
 2024,January,2024-01-15,5:48,Monday,bay,PUSTS,5,8,W,BD,5338
 2024,April,2024-04-26,13:08,Friday,bay,TUO,5,10,E,BD,5026
 2024,May,2024-05-03,8:57,Friday,bay,PUSO,5,8,E,BD,5350
@@ -285,6 +288,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,September,2023-09-03,9:26,Sunday,bay,SUO,26,30,W,BD,5188
 2023,December,2023-12-13,23:59,Wednesday,bay,SUUT,31,36,E,BD,5019
 2023,September,2023-09-16,9:23,Saturday,bay,SUUT,38,42,E,BD,5250
+2023,May,2023-05-01,17:50,Monday,bay,SUUT,61,65,E,BD,5272
 2022,January,2022-01-10,20:19,Monday,bay,MUIE,5,12,E,BD,5279
 2022,May,2022-05-14,9:26,Saturday,bay,SUUT,5,10,W,BD,5257
 2022,August,2022-08-22,5:57,Monday,bay,EUCO,5,10,W,BD,5275
@@ -311,6 +315,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,November,2022-11-08,17:13,Tuesday,bay,SUDP,19,22,E,BD,5087
 2022,November,2022-11-20,18:48,Sunday,bay,SUUT,22,27,E,BD,5168
 2022,January,2022-01-20,20:38,Thursday,bay,SUUT,31,38,W,BD,5067
+2022,June,2022-06-17,17:03,Friday,bay,SUUT,70,74,E,BD,5017
+2022,June,2022-06-17,18:09,Friday,bay,SUUT,70,74,W,BD,5148
 2021,January,2021-01-10,23:13,Sunday,bay,MUO,5,10,E,BD,5049
 2021,January,2021-01-23,15:04,Saturday,bay,MUDD,5,9,E,BD,5170
 2021,January,2021-01-24,22:39,Sunday,bay,MUD,5,11,W,BD,5052
@@ -394,6 +400,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,November,2023-11-25,16:39,Saturday,bayview,EUDO,17,24,E,SHP,6181
 2023,May,2023-05-07,12:08,Sunday,bayview,PUOPO,24,31,W,SHP,6166
 2023,April,2023-04-05,19:33,Wednesday,bayview,SUUT,39,46,W,SHP,6191
+2023,October,2023-10-22,19:02,Sunday,bayview,SUBT,67,74,E,SHP,6181
 2022,March,2022-03-11,12:38,Friday,bayview,PUOPO,5,10,E,SHP,6161
 2022,April,2022-04-04,10:46,Monday,bayview,PUSTS,5,10,E,SHP,6191
 2022,April,2022-04-26,18:26,Tuesday,bayview,MUSAN,5,11,E,SHP,6146
@@ -421,6 +428,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,August,2022-08-19,20:04,Friday,bayview,TUO,38,43,E,SHP,6181
 2022,October,2022-10-08,10:38,Saturday,bayview,SUUT,47,52,W,SHP,6171
 2022,March,2022-03-12,0:19,Saturday,bayview,MUPLB,53,58,W,SHP,6186
+2022,February,2022-02-18,23:48,Friday,bayview,SUO,63,69,E,SHP,6156
 2021,February,2021-02-05,19:33,Friday,bayview,MUSC,5,10,E,SHP,6146
 2021,April,2021-04-14,7:18,Wednesday,bayview,PUOPO,5,10,W,SHP,6196
 2021,June,2021-06-11,18:33,Friday,bayview,PUOPO,5,10,W,SHP,6141
@@ -948,6 +956,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,May,2023-05-30,16:35,Tuesday,bloor,SUUT,25,28,S,YU,5986
 2023,March,2023-03-30,8:14,Thursday,bloor,MUPLB,29,31,N,YU,5741
 2023,August,2023-08-08,10:30,Tuesday,bloor,MUIR,30,35,N,YU,5996
+2023,April,2023-04-17,6:21,Monday,bloor,MUPR1,75,78,S,YU,5626
+2023,April,2023-04-25,9:57,Tuesday,bloor,MUPLB,360,363,N,YU,5641
 2022,January,2022-01-18,13:02,Tuesday,bloor,SUDP,5,8,N,YU,5856
 2022,March,2022-03-02,22:23,Wednesday,bloor,MUI,5,10,N,YU,5781
 2022,April,2022-04-19,21:44,Tuesday,bloor,MUIE,5,10,N,YU,5581
@@ -1095,9 +1105,11 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2021,July,2021-07-31,15:09,Saturday,bloor,SUUT,5,9,N,YU,5786
 2021,August,2021-08-04,10:01,Wednesday,bloor,SUDP,5,8,S,YU,5461
 2021,August,2021-08-27,6:07,Friday,bloor,PUTO,5,8,S,YU,5391
+2023,March,2023-03-08,6:01,Wednesday,bloor,PUSRA,77,80,S,YU,5796
 2025,July,2025-07-31,11:02,Thursday,bloor,SUUT,28,33,N,YU,5611
 2022,April,2022-04-27,17:11,Wednesday,bloor,MUO,20,23,E,BD,0
 2022,December,2022-12-19,22:18,Monday,bloor,SUUT,9,14,N,YU,5836
+2024,May,2024-05-13,7:01,Monday,broadview,EUCD,716,719,E,BD,5034
 2025,March,2025-03-03,15:56,Monday,broadview,MUD,5,8,E,BD,5368
 2025,March,2025-03-21,15:52,Friday,broadview,MUDD,5,8,W,BD,5022
 2025,April,2025-04-17,0:13,Thursday,broadview,TUO,5,10,W,BD,5266
@@ -1164,6 +1176,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,April,2025-04-17,23:47,Thursday,broadview,MUI,32,37,E,BD,5087
 2025,May,2025-05-02,9:54,Friday,broadview,PUSO,40,44,W,BD,5111
 2025,September,2025-09-13,6:27,Saturday,broadview,MUO,43,49,E,BD,5353
+2025,September,2025-09-23,6:26,Tuesday,broadview,MUPR1,129,132,E,BD,5023
 2024,January,2024-01-09,15:14,Tuesday,broadview,TUMVS,5,9,E,BD,5355
 2024,January,2024-01-15,11:02,Monday,broadview,MUDD,5,9,E,BD,5040
 2024,January,2024-01-18,22:24,Thursday,broadview,MUSAN,5,10,E,BD,5040
@@ -1235,6 +1248,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,July,2024-07-23,5:51,Tuesday,broadview,EUVE,28,33,W,BD,5352
 2024,June,2024-06-01,1:30,Saturday,broadview,SUDP,30,39,E,BD,5309
 2024,August,2024-08-06,17:47,Tuesday,broadview,MUPLB,54,57,E,BD,5300
+2024,September,2024-09-20,20:29,Friday,broadview,MUPR1,69,74,W,BD,5056
 2023,January,2023-01-29,9:53,Sunday,broadview,EUBK,5,9,E,BD,5145
 2023,March,2023-03-23,0:40,Thursday,broadview,MUIR,5,9,W,BD,5053
 2023,April,2023-04-15,21:20,Saturday,broadview,TUMVS,5,10,E,BD,5269
@@ -1333,6 +1347,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,September,2022-09-06,12:09,Tuesday,broadview,MUI,19,22,E,BD,5063
 2022,May,2022-05-29,14:22,Sunday,broadview,SUUT,20,25,W,BD,5026
 2022,November,2022-11-22,6:05,Tuesday,broadview,PUMO,41,0,E,BD,5252
+2022,May,2022-05-20,15:51,Friday,broadview,SUAP,71,75,E,BD,5069
+2022,December,2022-12-05,21:03,Monday,broadview,SUAP,93,97,W,BD,5221
 2021,March,2021-03-29,19:55,Monday,broadview,SUDP,5,12,W,BD,5355
 2021,July,2021-07-21,22:33,Wednesday,broadview,SUDP,5,13,E,BD,5209
 2025,December,2025-12-26,17:04,Friday,broadview,TUMVS,5,9,E,BD,5114
@@ -1420,6 +1436,10 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,June,2024-06-01,16:19,Saturday,castle frank,SUUT,40,44,E,BD,5282
 2024,November,2024-11-30,12:32,Saturday,castle frank,SUUT,45,49,W,BD,5107
 2024,July,2024-07-14,20:46,Sunday,castle frank,SUUT,57,62,W,BD,5218
+2024,June,2024-06-14,12:11,Friday,castle frank,SUO,66,71,W,BD,5006
+2024,February,2024-02-29,20:45,Thursday,castle frank,MUPR1,106,111,W,BD,5271
+2024,September,2024-09-19,6:17,Thursday,castle frank,PUTR,109,114,E,BD,5078
+2024,June,2024-06-23,14:05,Sunday,castle frank,MUPR1,155,159,W,BD,5364
 2023,February,2023-02-04,6:39,Saturday,castle frank,MUWEA,5,10,W,BD,5317
 2023,February,2023-02-13,18:55,Monday,castle frank,SUDP,5,9,E,BD,5344
 2023,April,2023-04-22,18:03,Saturday,castle frank,SUDP,5,9,W,BD,5349
@@ -1494,9 +1514,23 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,December,2022-12-02,16:08,Friday,castle frank,SUPOL,31,34,E,BD,5047
 2022,February,2022-02-12,19:18,Saturday,castle frank,PUTDN,32,37,E,BD,5311
 2022,November,2022-11-17,21:22,Thursday,castle frank,MUIR,36,40,E,BD,5086
+2022,February,2022-02-02,12:07,Wednesday,castle frank,SUBT,69,73,W,BD,5268
 2021,February,2021-02-17,14:22,Wednesday,castle frank,EUNT,5,9,W,BD,5297
 2021,June,2021-06-21,15:42,Monday,castle frank,MUPLB,5,9,W,BD,5082
 2021,July,2021-07-11,18:37,Sunday,castle frank,SUAP,5,10,W,BD,5060
+2026,January,2026-01-25,14:44,Sunday,cedarvale,SUAP,6,10,S,YU,6071
+2025,December,2025-12-29,13:59,Monday,cedarvale,SUAE,7,10,S,YU,5926
+2026,January,2026-01-10,13:25,Saturday,cedarvale,MUIR,8,12,N,YU,6026
+2025,December,2025-12-11,12:39,Thursday,cedarvale,TUO,9,12,N,YU,5546
+2026,January,2026-01-01,23:37,Thursday,cedarvale,SUDP,9,14,S,YU,5911
+2026,January,2026-01-12,19:42,Monday,cedarvale,SUDP,9,12,S,YU,5901
+2025,December,2025-12-31,11:02,Wednesday,cedarvale,SUDP,11,14,S,YU,5445
+2025,December,2025-12-13,2:10,Saturday,cedarvale,TUO,15,20,N,YU,5681
+2026,January,2026-01-15,16:18,Thursday,cedarvale,SUDP,15,18,N,YU,5833
+2026,January,2026-01-10,12:06,Saturday,cedarvale,SUDP,19,22,S,YU,6116
+2026,January,2026-01-04,8:33,Sunday,cedarvale,MUWEA,29,34,S,YU,5941
+2025,December,2025-12-22,14:55,Monday,cedarvale,SUDP,33,36,N,YU,5886
+2023,March,2023-03-13,22:18,Monday,chester,PUSSW,146,150,W,BD,5051
 2025,January,2025-01-14,17:32,Tuesday,chester,TUO,5,8,E,BD,5084
 2025,January,2025-01-15,12:07,Wednesday,chester,SUDP,5,9,W,BD,5306
 2025,January,2025-01-22,9:32,Wednesday,chester,PUSTS,5,8,E,BD,5108
@@ -2257,6 +2291,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,May,2025-05-08,23:01,Thursday,coxwell,MUIR,18,23,E,BD,5164
 2025,March,2025-03-08,12:26,Saturday,coxwell,EUNT,19,24,E,BD,5256
 2025,April,2025-04-21,11:44,Monday,coxwell,EUTL,50,54,E,BD,5202
+2025,March,2025-03-27,17:55,Thursday,coxwell,MUPR1,109,112,E,BD,5131
 2024,January,2024-01-05,15:26,Friday,coxwell,TUNIP,5,9,E,BD,5029
 2024,January,2024-01-13,10:05,Saturday,coxwell,TUS,5,10,E,BD,5231
 2024,February,2024-02-05,20:26,Monday,coxwell,SUDP,5,10,E,BD,5110
@@ -2454,6 +2489,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,July,2022-07-12,23:18,Tuesday,coxwell,SUO,18,25,E,BD,5113
 2022,March,2022-03-24,16:36,Thursday,coxwell,MUPR1,41,45,W,BD,5162
 2022,December,2022-12-18,21:58,Sunday,coxwell,TUO,52,58,E,BD,5242
+2022,April,2022-04-09,9:47,Saturday,coxwell,MUPR1,147,152,W,BD,5002
+2022,March,2022-03-30,22:27,Wednesday,coxwell,MUPR1,172,179,W,BD,5293
 2021,January,2021-01-06,10:18,Wednesday,coxwell,TUNIP,5,8,W,BD,5371
 2021,February,2021-02-19,9:55,Friday,coxwell,TUS,5,9,E,BD,5069
 2021,March,2021-03-28,22:10,Sunday,coxwell,SUUT,5,9,W,BD,5059
@@ -2462,6 +2499,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2021,June,2021-06-27,17:37,Sunday,coxwell,MUTO,5,10,E,BD,5190
 2021,July,2021-07-11,9:39,Sunday,coxwell,SUAP,5,11,W,BD,5114
 2021,July,2021-07-11,12:43,Sunday,coxwell,MUDD,5,10,E,BD,5017
+2025,December,2025-12-23,19:09,Tuesday,coxwell,PUSTP,184,188,W,BD,5271
 2024,September,2024-09-21,18:47,Saturday,coxwell,TUNOA,5,10,W,BD,5014
 2025,January,2025-01-28,21:35,Tuesday,davisville,PUTWZ,15,19,S,YU,5411
 2026,January,2026-01-11,22:10,Sunday,davisville,MUTO,5,10,S,YU,6011
@@ -2620,6 +2658,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,November,2025-11-26,14:38,Wednesday,davisville,PUTD,40,43,N,YU,5441
 2026,January,2026-01-27,0:39,Tuesday,davisville,EUVE,40,45,N,YU,5936
 2025,September,2025-09-16,5:58,Tuesday,davisville,EUBK,43,48,S,YU,5596
+2025,October,2025-10-02,12:20,Thursday,davisville,PUEO,76,81,S,YU,5506
 2024,January,2024-01-03,12:50,Wednesday,davisville,MUSAN,5,10,N,YU,5971
 2024,January,2024-01-20,22:00,Saturday,davisville,MUPAA,5,11,N,YU,5426
 2024,January,2024-01-27,6:38,Saturday,davisville,MUATC,5,13,N,YU,5586
@@ -2752,6 +2791,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,February,2024-02-25,13:02,Sunday,davisville,MUPLB,32,36,S,YU,5426
 2024,November,2024-11-27,22:31,Wednesday,davisville,EUVE,34,39,N,YU,5766
 2024,December,2024-12-19,7:25,Thursday,davisville,SUO,45,50,S,YU,5916
+2024,January,2024-01-14,11:22,Sunday,davisville,MUPLB,66,70,S,YU,6031
+2024,December,2024-12-29,17:06,Sunday,davisville,MUPLB,258,262,N,YU,5861
 2023,January,2023-01-29,20:54,Sunday,davisville,SUDP,5,11,N,YU,5441
 2023,February,2023-02-24,23:37,Friday,davisville,MUPAA,5,10,N,YU,5806
 2023,April,2023-04-25,14:19,Tuesday,davisville,MUPAA,5,8,S,YU,6056
@@ -2836,6 +2877,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,July,2023-07-08,15:30,Saturday,davisville,SUO,27,31,N,YU,5866
 2023,June,2023-06-29,20:41,Thursday,davisville,MUI,48,53,N,YU,5976
 2023,June,2023-06-07,13:17,Wednesday,davisville,MUATC,52,57,S,YU,6071
+2023,August,2023-08-05,19:22,Saturday,davisville,PUEO,85,90,S,YU,5791
+2023,August,2023-08-01,5:53,Tuesday,davisville,MUPLB,104,107,S,YU,5561
 2022,January,2022-01-07,1:35,Friday,davisville,MUATC,5,10,S,YU,6036
 2022,February,2022-02-18,6:11,Friday,davisville,TUNOA,5,8,N,YU,5546
 2022,February,2022-02-28,0:36,Monday,davisville,MUWR,5,10,N,YU,6046
@@ -2912,6 +2955,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,June,2022-06-10,18:25,Friday,davisville,MUATC,29,32,S,YU,6066
 2022,July,2022-07-07,0:28,Thursday,davisville,SUUT,34,39,S,YU,5451
 2022,March,2022-03-09,17:13,Wednesday,davisville,MUPLB,52,55,S,YU,5791
+2022,November,2022-11-29,9:13,Tuesday,davisville,MUPR1,199,202,S,YU,5676
 2021,January,2021-01-17,22:55,Sunday,davisville,SUDP,5,10,N,YU,5696
 2021,January,2021-01-21,21:53,Thursday,davisville,SUDP,5,10,N,YU,6061
 2021,February,2021-02-05,23:38,Friday,davisville,TUNOA,5,10,S,YU,5676
@@ -3007,6 +3051,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,October,2025-10-07,5:31,Tuesday,don mills,PUTWZ,30,0,W,SHP,6181
 2025,May,2025-05-27,20:21,Tuesday,don mills,PUSSW,43,48,E,SHP,6166
 2025,July,2025-07-18,5:31,Friday,don mills,PUSSW,51,0,W,SHP,6166
+2025,September,2025-09-03,6:58,Wednesday,don mills,PUSSW,149,154,W,SHP,6156
+2025,July,2025-07-18,20:33,Friday,don mills,PUSSW,167,172,W,SHP,6166
 2024,January,2024-01-04,19:12,Thursday,don mills,SUDP,5,12,W,SHP,6146
 2024,January,2024-01-31,20:53,Wednesday,don mills,MUSAN,5,10,E,SHP,6156
 2024,February,2024-02-08,15:55,Thursday,don mills,TUO,5,12,W,SHP,6186
@@ -3064,6 +3110,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,June,2024-06-22,21:00,Saturday,don mills,PUOPO,29,36,W,SHP,6151
 2024,March,2024-03-13,22:38,Wednesday,don mills,SUPOL,33,40,W,SHP,6176
 2024,December,2024-12-01,12:03,Sunday,don mills,PUSSW,42,49,W,SHP,6196
+2024,June,2024-06-22,19:45,Saturday,don mills,PUSSW,66,73,E,SHP,6166
+2024,October,2024-10-15,5:48,Tuesday,don mills,PUSTS,69,76,W,SHP,6146
 2023,January,2023-01-07,20:00,Saturday,don mills,MUSC,5,10,W,SHP,6141
 2023,January,2023-01-11,17:19,Wednesday,don mills,PUOPO,5,10,W,SHP,6171
 2023,January,2023-01-26,14:37,Thursday,don mills,TUO,5,10,W,SHP,6161
@@ -3117,6 +3165,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,March,2023-03-08,5:37,Wednesday,don mills,PUTD,47,52,E,SHP,6196
 2023,May,2023-05-04,15:52,Thursday,don mills,SUO,53,60,W,SHP,6156
 2023,December,2023-12-01,16:37,Friday,don mills,SUROB,60,67,W,SHP,6191
+2023,June,2023-06-14,1:18,Wednesday,don mills,PUSTS,68,72,E,SHP,6191
 2022,January,2022-01-14,5:42,Friday,don mills,TUO,5,11,W,SHP,6156
 2022,February,2022-02-07,23:34,Monday,don mills,MUI,5,10,W,SHP,6186
 2022,February,2022-02-22,5:33,Tuesday,don mills,EUDO,5,0,W,SHP,6151
@@ -3279,6 +3328,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,October,2025-10-23,18:35,Thursday,donlands,SUDP,30,32,E,BD,5095
 2025,October,2025-10-27,22:34,Monday,donlands,EUVE,37,42,W,BD,5023
 2026,January,2026-01-09,10:29,Friday,donlands,PUSSW,49,52,W,BD,5067
+2025,April,2025-04-16,0:07,Wednesday,donlands,MUI,90,95,E,BD,5101
 2024,January,2024-01-03,19:34,Wednesday,donlands,SUO,5,10,W,BD,5004
 2024,February,2024-02-11,8:28,Sunday,donlands,EUYRD,5,9,W,BD,5150
 2024,March,2024-03-24,8:31,Sunday,donlands,MUO,5,9,W,BD,5223
@@ -3408,6 +3458,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,August,2022-08-09,6:11,Tuesday,donlands,EUCD,25,29,E,BD,5353
 2022,April,2022-04-13,10:22,Wednesday,donlands,PUSTS,43,47,E,BD,5049
 2022,March,2022-03-02,15:28,Wednesday,donlands,EUME,60,64,W,BD,5051
+2025,May,2025-05-14,11:53,Wednesday,donlands,PUSI,129,134,W,BD,5360
 2025,March,2025-03-14,17:51,Friday,downsview park,PUOPO,5,8,N,YU,5481
 2025,May,2025-05-09,8:22,Friday,downsview park,TUATC,5,7,N,YU,6006
 2025,June,2025-06-13,6:17,Friday,downsview park,PUOPO,5,10,N,YU,5421
@@ -3475,6 +3526,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,July,2024-07-02,21:56,Tuesday,downsview park,MUI,29,34,S,YU,5706
 2024,October,2024-10-17,7:25,Thursday,downsview park,SUUT,30,32,S,YU,5391
 2024,January,2024-01-30,23:05,Tuesday,downsview park,MUI,59,64,S,YU,5501
+2024,December,2024-12-25,20:54,Wednesday,downsview park,SUUT,66,72,S,YU,6111
 2023,January,2023-01-09,8:28,Monday,downsview park,MUPAA,5,7,S,YU,5591
 2023,January,2023-01-11,16:11,Wednesday,downsview park,MUATC,5,8,S,YU,5681
 2023,January,2023-01-22,0:54,Sunday,downsview park,MUPAA,5,11,N,YU,5731
@@ -3654,6 +3706,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,July,2023-07-18,21:09,Tuesday,dufferin,SUAP,22,27,W,BD,5270
 2023,September,2023-09-18,18:54,Monday,dufferin,MUI,25,30,E,BD,5283
 2023,September,2023-09-24,21:54,Sunday,dufferin,SUO,27,33,W,BD,5171
+2023,April,2023-04-05,8:43,Wednesday,dufferin,MUPR1,134,136,E,BD,5020
 2022,February,2022-02-18,23:28,Friday,dufferin,SUDP,5,12,W,BD,5234
 2022,August,2022-08-04,19:08,Thursday,dufferin,EUPI,5,8,W,BD,5127
 2022,August,2022-08-14,22:44,Sunday,dufferin,SUDP,5,11,E,BD,5084
@@ -3683,6 +3736,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,March,2022-03-29,15:34,Tuesday,dufferin,PUTDN,20,24,E,BD,5351
 2022,December,2022-12-02,15:50,Friday,dufferin,SUO,23,27,E,BD,5332
 2022,January,2022-01-16,20:02,Sunday,dufferin,PUTDN,35,42,W,BD,5358
+2022,August,2022-08-15,12:57,Monday,dufferin,MUPR1,327,330,W,BD,5363
 2021,July,2021-07-28,14:03,Wednesday,dufferin,MUIR,5,9,E,BD,5160
 2024,October,2024-10-17,10:56,Thursday,dufferin,SUPOL,15,19,E,BD,5005
 2024,February,2024-02-12,8:04,Monday,dufferin,PUTR,6,9,W,BD,5160
@@ -3765,6 +3819,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,January,2025-01-14,22:49,Tuesday,dundas,MUI,20,23,N,YU,5771
 2025,June,2025-06-27,0:08,Friday,dundas,SUAE,23,29,S,YU,5651
 2025,October,2025-10-05,22:40,Sunday,dundas,MUPLB,35,41,S,YU,5716
+2025,August,2025-08-21,8:50,Thursday,dundas,EUDO,63,68,S,YU,5886
 2024,January,2024-01-04,10:16,Thursday,dundas,SUO,5,10,N,YU,5661
 2024,January,2024-01-25,10:11,Thursday,dundas,PUOPO,5,8,S,YU,5616
 2024,January,2024-01-26,20:35,Friday,dundas,SUDP,5,10,S,YU,5991
@@ -3901,6 +3956,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,May,2024-05-24,10:26,Friday,dundas,SUUT,30,35,N,YU,5711
 2024,August,2024-08-09,19:42,Friday,dundas,MUI,36,39,N,YU,5406
 2024,November,2024-11-09,23:48,Saturday,dundas,EUO,51,56,S,YU,5921
+2024,October,2024-10-20,21:04,Sunday,dundas,SUUT,100,106,N,YU,5911
 2023,January,2023-01-11,11:24,Wednesday,dundas,PUTDN,5,8,S,YU,5396
 2023,January,2023-01-11,21:23,Wednesday,dundas,SUDP,5,10,N,YU,5391
 2023,January,2023-01-14,21:44,Saturday,dundas,MUPAA,5,10,N,YU,5421
@@ -4089,6 +4145,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,December,2022-12-18,20:10,Sunday,dundas,SUO,26,32,N,YU,5491
 2022,October,2022-10-23,22:11,Sunday,dundas,SUUT,28,35,N,YU,5586
 2022,March,2022-03-14,22:03,Monday,dundas,MUPR1,53,58,N,YU,5996
+2022,June,2022-06-03,11:09,Friday,dundas,MUPR1,109,112,S,YU,5381
 2021,January,2021-01-05,0:19,Tuesday,dundas,SUDP,5,10,S,YU,5516
 2021,April,2021-04-16,1:32,Friday,dundas,SUUT,5,12,N,YU,5976
 2021,May,2021-05-21,22:18,Friday,dundas,MUPAA,5,12,S,YU,5766
@@ -4190,6 +4247,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,April,2024-04-23,0:36,Tuesday,dundas west,MUIR,17,22,E,BD,5199
 2024,February,2024-02-10,15:53,Saturday,dundas west,SUO,18,22,W,BD,5274
 2024,May,2024-05-17,22:30,Friday,dundas west,EUDO,32,37,W,BD,5289
+2024,October,2024-10-10,18:17,Thursday,dundas west,SUUT,70,73,E,BD,5006
 2023,May,2023-05-17,14:15,Wednesday,dundas west,SUAP,5,9,E,BD,5103
 2023,June,2023-06-03,15:15,Saturday,dundas west,MUIR,5,9,W,BD,5162
 2023,July,2023-07-10,17:41,Monday,dundas west,SUDP,5,8,W,BD,5211
@@ -4238,6 +4296,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,February,2023-02-26,8:45,Sunday,dundas west,MUPLB,31,35,E,YU,5303
 2023,December,2023-12-03,8:33,Sunday,dundas west,SUUT,31,36,E,BD,5332
 2023,February,2023-02-06,16:00,Monday,dundas west,SUDP,44,47,W,BD,5237
+2023,June,2023-06-16,23:35,Friday,dundas west,MUPR1,91,99,E,BD,5258
 2022,February,2022-02-09,15:08,Wednesday,dundas west,SUUT,5,9,W,BD,5156
 2022,April,2022-04-21,15:39,Thursday,dundas west,SUDP,5,9,E,BD,5280
 2022,June,2022-06-12,14:25,Sunday,dundas west,SUO,5,10,E,BD,5224
@@ -4278,6 +4337,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,March,2022-03-21,22:55,Monday,dundas west,SUUT,23,30,W,BD,5091
 2022,July,2022-07-18,16:24,Monday,dundas west,MUPLB,33,37,W,BD,5079
 2022,February,2022-02-17,21:03,Thursday,dundas west,SUUT,38,45,W,BD,5250
+2022,March,2022-03-11,14:37,Friday,dundas west,SUBT,93,97,E,BD,5263
 2021,January,2021-01-03,12:21,Sunday,dundas west,TUMVS,5,9,W,BD,5054
 2021,February,2021-02-10,10:30,Wednesday,dundas west,SUDP,5,8,E,BD,5117
 2021,June,2021-06-24,12:50,Thursday,dundas west,SUDP,5,9,E,BD,5065
@@ -4447,6 +4507,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,February,2023-02-15,13:54,Wednesday,dupont,MUI,18,21,S,YU,5431
 2023,April,2023-04-22,0:17,Saturday,dupont,SUDP,18,24,S,YU,5746
 2023,February,2023-02-12,1:28,Sunday,dupont,SUUT,24,29,N,YU,5946
+2023,June,2023-06-23,21:29,Friday,dupont,SUO,80,85,N,YU,5441
 2022,January,2022-01-02,12:15,Sunday,dupont,PUOPO,5,10,N,YU,5706
 2022,January,2022-01-04,7:05,Tuesday,dupont,PUOPO,5,8,N,YU,5626
 2022,January,2022-01-08,8:57,Saturday,dupont,MUSAN,5,11,N,YU,5951
@@ -4499,16 +4560,20 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,August,2022-08-15,10:42,Monday,dupont,MUPLB,24,0,S,YU,5471
 2022,February,2022-02-21,19:36,Monday,dupont,SUDP,27,32,S,YU,5801
 2022,April,2022-04-19,14:20,Tuesday,dupont,SUUT,36,39,S,YU,5936
+2022,January,2022-01-16,20:36,Sunday,dupont,MUPR1,198,205,N,YU,5461
+2022,February,2022-02-09,6:06,Wednesday,dupont,SUAE,240,243,S,YU,5426
 2021,February,2021-02-04,20:34,Thursday,dupont,SUUT,5,8,N,YU,5516
 2021,February,2021-02-26,15:39,Friday,dupont,MUPAA,5,8,S,YU,5696
 2021,May,2021-05-07,19:17,Friday,dupont,MUSAN,5,10,N,YU,5456
 2021,August,2021-08-01,10:09,Sunday,dupont,PUOPO,5,10,N,YU,5676
 2021,August,2021-08-20,12:53,Friday,dupont,EUDO,5,8,N,YU,5486
 2024,May,2024-05-04,18:47,Saturday,dupont,TUS,5,11,N,YU,5761
+2024,August,2024-08-09,4:35,Friday,warden,PUTWZ,77,79,E,BD,5295
 2022,August,2022-08-09,19:14,Tuesday,dundas,SUO,9,12,S,YU,5711
 2022,April,2022-04-07,0:30,Thursday,eglinton,MUATC,5,10,S,YU,5746
 2022,April,2022-04-20,14:09,Wednesday,eglinton,MUATC,8,11,S,YU,5736
 2022,April,2022-04-25,10:00,Monday,eglinton,MUATC,8,11,S,YU,6111
+2026,January,2026-01-25,17:32,Sunday,eglinton,PUTIS,504,508,N,YU,5536
 2022,July,2022-07-18,19:35,Monday,eglinton,MUATC,5,8,S,YU,6086
 2022,July,2022-07-25,6:33,Monday,eglinton,TUO,5,8,S,YU,5536
 2022,July,2022-07-28,7:54,Thursday,eglinton,MUATC,5,8,S,YU,5866
@@ -4713,6 +4778,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2026,January,2026-01-17,5:50,Saturday,eglinton,MUO,35,0,N,YU,6006
 2026,January,2026-01-24,8:37,Saturday,eglinton,MUPLB,35,41,N,YU,6041
 2025,February,2025-02-04,5:39,Tuesday,eglinton,PUTWZ,40,0,N,YU,5496
+2025,May,2025-05-21,17:25,Wednesday,eglinton,MUPR1,143,145,S,YU,5996
+2025,February,2025-02-16,9:18,Sunday,eglinton,MUWEA,807,812,N,YU,6071
 2024,January,2024-01-03,15:26,Wednesday,eglinton,MUIR,5,10,N,YU,5436
 2024,January,2024-01-07,14:02,Sunday,eglinton,PUOPO,5,9,S,YU,5906
 2024,January,2024-01-18,14:36,Thursday,eglinton,PUOPO,5,10,S,YU,5956
@@ -4914,6 +4981,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,March,2024-03-22,21:41,Friday,eglinton,MUIR,31,36,S,YU,5731
 2024,May,2024-05-02,17:47,Thursday,eglinton,MUI,32,35,N,YU,5431
 2024,March,2024-03-21,9:30,Thursday,eglinton,SUUT,34,37,S,YU,6126
+2024,September,2024-09-17,17:26,Tuesday,eglinton,MUEC,126,131,N,YU,5876
 2023,January,2023-01-03,12:43,Tuesday,eglinton,SUDP,5,8,S,YU,5786
 2023,January,2023-01-05,20:12,Thursday,eglinton,MUATC,5,8,S,YU,5481
 2023,January,2023-01-22,15:00,Sunday,eglinton,SUPOL,5,9,N,YU,5936
@@ -5065,6 +5133,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,August,2023-08-26,14:34,Saturday,eglinton,MUIR,30,34,N,YU,6056
 2023,December,2023-12-20,0:43,Wednesday,eglinton,MUD,32,37,N,YU,5401
 2023,December,2023-12-21,22:11,Thursday,eglinton,SUUT,33,38,N,YU,5711
+2023,December,2023-12-16,20:08,Saturday,eglinton,MUPR1,79,84,S,YU,5741
+2023,July,2023-07-06,12:17,Thursday,eglinton,SUAP,130,135,S,YU,5786
 2022,January,2022-01-02,9:56,Sunday,eglinton,EUDO,5,10,N,YU,5601
 2022,January,2022-01-04,7:09,Tuesday,eglinton,TUATC,5,8,S,YU,5891
 2022,January,2022-01-05,5:38,Wednesday,eglinton,TUNOA,5,0,N,YU,0
@@ -5274,6 +5344,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,December,2022-12-04,20:13,Sunday,eglinton,SUDP,23,29,S,YU,5811
 2022,May,2022-05-03,0:23,Tuesday,eglinton,TUDOE,25,30,S,YU,6051
 2022,February,2022-02-07,11:24,Monday,eglinton,MUI,27,30,S,YU,6056
+2022,April,2022-04-25,6:19,Monday,eglinton,MUEC,171,174,N,YU,5796
 2021,January,2021-01-13,0:42,Wednesday,eglinton,SUDP,5,10,S,YU,5876
 2021,February,2021-02-21,17:10,Sunday,eglinton,MUIS,5,9,N,YU,5756
 2021,March,2021-03-13,10:12,Saturday,eglinton,MUIR,5,10,S,YU,5861
@@ -5310,6 +5381,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,March,2022-03-14,9:06,Monday,eglinton,MUATC,7,10,S,YU,5891
 2022,January,2022-01-31,7:06,Monday,eglinton,MUATC,8,11,S,YU,5476
 2022,January,2022-01-07,0:52,Friday,eglinton,TUATC,16,21,S,YU,6011
+2023,July,2023-07-17,22:40,Monday,eglinton,MUATC,83,90,N,YU,6111
 2024,June,2024-06-24,17:51,Monday,eglinton,SUO,6,9,S,YU,6096
 2022,October,2022-10-25,5:31,Tuesday,eglinton,PUTWZ,19,0,S,YU,5666
 2024,November,2024-11-08,8:16,Friday,eglinton,PUSO,16,21,N,YU,5946
@@ -5693,6 +5765,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,February,2025-02-04,5:31,Tuesday,finch,PUTWZ,52,0,S,YU,6011
 2025,February,2025-02-14,5:31,Friday,finch,SUUT,56,0,S,YU,5406
 2026,January,2026-01-09,6:12,Friday,finch,PUSSW,57,59,S,YU,5646
+2025,April,2025-04-17,9:02,Thursday,finch,EUPI,88,93,N,YU,5641
+2026,January,2026-01-08,5:31,Thursday,finch,PUTSM,99,102,S,YU,5871
+2026,January,2026-01-09,9:29,Friday,finch,PUSSW,171,173,N,YU,5716
 2024,January,2024-01-04,13:58,Thursday,finch,MUSAN,5,10,S,YU,5386
 2024,January,2024-01-04,19:43,Thursday,finch,TUNIP,5,8,S,YU,5891
 2024,January,2024-01-12,21:30,Friday,finch,MUD,5,10,S,YU,5565
@@ -6150,6 +6225,10 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,February,2022-02-22,16:30,Tuesday,finch,SUO,28,31,S,YU,5756
 2022,February,2022-02-26,17:18,Saturday,finch,SUPOL,32,38,S,YU,5791
 2022,November,2022-11-12,14:28,Saturday,finch,SUDP,35,40,S,YU,5496
+2022,June,2022-06-10,5:31,Friday,finch,PUTWZ,65,0,S,YU,6106
+2022,June,2022-06-21,13:56,Tuesday,finch,PUCSC,77,80,N,YU,6066
+2022,December,2022-12-19,12:08,Monday,finch,MUPR1,81,84,N,YU,5516
+2022,August,2022-08-17,20:04,Wednesday,finch,SUBT,98,101,N,YU,5896
 2021,January,2021-01-06,23:36,Wednesday,finch,MUNOA,5,10,S,YU,5466
 2021,January,2021-01-07,22:42,Thursday,finch,MUNOA,5,10,S,YU,5551
 2021,January,2021-01-11,21:34,Monday,finch,PUTWZ,5,10,S,YU,5516
@@ -6197,6 +6276,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,January,2025-01-17,13:53,Friday,finch west,TUS,5,9,N,YU,5951
 2025,December,2025-12-28,19:19,Sunday,finch,SUDP,17,22,S,YU,5951
 2025,December,2025-12-27,19:17,Saturday,finch,MUSAN,5,8,S,YU,5921
+2024,December,2024-12-04,16:50,Wednesday,finch west,PUSZC,63,66,S,YU,6046
 2024,December,2024-12-09,7:44,Monday,finch west,PUSZC,19,22,N,YU,5621
 2022,December,2022-12-13,8:27,Tuesday,finch west,PUSZC,20,23,S,YU,5486
 2024,November,2024-11-15,16:36,Friday,finch west,TUS,8,12,N,YU,5941
@@ -6235,6 +6315,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,February,2025-02-16,11:06,Sunday,finch west,MUWEA,16,21,N,YU,5871
 2025,October,2025-10-19,9:10,Sunday,finch west,SUUT,20,26,N,YU,6016
 2025,August,2025-08-17,7:52,Sunday,finch west,EUTL,44,50,N,YU,5491
+2025,March,2025-03-16,23:09,Sunday,finch west,MUPR1,115,121,S,YU,5621
 2024,January,2024-01-22,6:16,Monday,finch west,PUOPO,5,11,S,YU,5841
 2024,January,2024-01-23,10:39,Tuesday,finch west,MUATC,5,9,N,YU,6041
 2024,January,2024-01-23,14:18,Tuesday,finch west,PUOPO,5,10,N,YU,5841
@@ -6281,6 +6362,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,August,2024-08-16,22:34,Friday,finch west,SUUT,32,37,S,YU,6101
 2024,January,2024-01-09,0:50,Tuesday,finch west,SUUT,35,40,S,YU,5476
 2024,August,2024-08-08,5:48,Thursday,finch west,SUO,40,43,N,YU,5981
+2024,October,2024-10-13,16:17,Sunday,finch west,EUBK,76,80,S,YU,5721
 2023,February,2023-02-13,11:45,Monday,finch west,SUDP,5,8,S,YU,6031
 2023,February,2023-02-28,2:03,Tuesday,finch west,PUOPO,5,10,N,YU,6086
 2023,April,2023-04-20,13:08,Thursday,finch west,MUTO,5,8,S,YU,5521
@@ -6419,6 +6501,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,November,2025-11-30,9:00,Sunday,glencairn,PUTR,19,0,N,YU,6061
 2025,June,2025-06-29,16:12,Sunday,glencairn,SUAP,20,24,N,YU,5701
 2025,December,2025-12-11,14:34,Thursday,glencairn,SUDP,26,29,S,YU,5434
+2026,January,2026-01-25,16:12,Sunday,glencairn,PUTIS,622,626,N,YU,6051
 2024,January,2024-01-23,17:29,Tuesday,glencairn,SUDP,5,8,N,YU,5576
 2024,February,2024-02-02,11:04,Friday,glencairn,MUPAA,5,10,S,YU,5591
 2024,February,2024-02-16,16:40,Friday,glencairn,PUOPO,5,8,S,YU,5896
@@ -6638,6 +6721,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,October,2025-10-27,8:55,Monday,greenwood,PUTSM,44,46,E,BD,5113
 2025,February,2025-02-13,7:10,Thursday,greenwood,TUDOE,47,49,W,BD,5343
 2025,April,2025-04-12,6:01,Saturday,greenwood,EUSC,57,62,E,BD,5263
+2025,February,2025-02-12,15:33,Wednesday,greenwood,MUPR1,120,123,E,BD,5091
 2024,April,2024-04-04,7:27,Thursday,greenwood,MUWEA,5,7,E,BD,5230
 2024,April,2024-04-09,8:41,Tuesday,greenwood,PUTWZ,5,0,E,BD,5044
 2024,April,2024-04-21,8:05,Sunday,greenwood,EUME,5,0,E,BD,5145
@@ -6756,6 +6840,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,February,2023-02-19,18:13,Sunday,greenwood,SUDP,15,20,E,BD,5158
 2023,February,2023-02-11,12:15,Saturday,greenwood,MUPR1,39,43,W,BD,5017
 2023,March,2023-03-15,15:47,Wednesday,greenwood,TUDOE,41,44,W,BD,5371
+2023,May,2023-05-23,12:38,Tuesday,greenwood,MUPLB,67,71,E,BD,5193
 2022,January,2022-01-01,8:28,Saturday,greenwood,TUO,5,10,E,BD,5091
 2022,January,2022-01-05,17:46,Wednesday,greenwood,SUDP,5,10,E,BD,6129
 2022,January,2022-01-19,6:11,Wednesday,greenwood,TUO,5,9,W,BD,5253
@@ -6815,6 +6900,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,May,2022-05-17,10:11,Tuesday,greenwood,PUCSC,26,30,W,BD,5254
 2022,September,2022-09-29,17:56,Thursday,greenwood,MUI,27,30,E,BD,5162
 2022,January,2022-01-29,5:49,Saturday,greenwood,TUML,28,0,E,BD,5218
+2022,November,2022-11-22,5:42,Tuesday,greenwood,MUO,68,0,E,BD,0
+2022,June,2022-06-17,0:00,Friday,greenwood,MUPR1,122,129,W,BD,5261
 2021,January,2021-01-14,23:48,Thursday,greenwood,MUDD,5,11,E,BD,5298
 2021,January,2021-01-16,6:05,Saturday,greenwood,EUBO,5,10,E,BD,5066
 2021,January,2021-01-28,5:50,Thursday,greenwood,MUO,5,8,E,BD,5112
@@ -6876,6 +6963,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2026,January,2026-01-31,22:36,Saturday,high park,MUIR,16,21,E,BD,5224
 2025,February,2025-02-01,22:58,Saturday,high park,SUDP,17,23,E,BD,5192
 2025,August,2025-08-15,8:42,Friday,high park,SUDP,19,22,E,BD,5107
+2025,January,2025-01-14,5:42,Tuesday,high park,PUEWZ,64,0,E,BD,5249
 2024,March,2024-03-09,14:02,Saturday,high park,MUDD,5,9,W,BD,5179
 2024,June,2024-06-28,11:43,Friday,high park,SUDP,5,9,W,BD,5152
 2024,November,2024-11-27,14:37,Wednesday,high park,MUI,6,10,W,BD,5176
@@ -6894,6 +6982,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,November,2024-11-05,16:38,Tuesday,high park,SUEAS,22,25,W,BD,5209
 2024,November,2024-11-18,11:46,Monday,high park,SUUT,27,31,W,BD,5168
 2024,July,2024-07-26,0:29,Friday,high park,SUDP,34,39,W,BD,5201
+2024,December,2024-12-31,12:10,Tuesday,high park,MUPLA,102,105,W,BD,5260
 2023,June,2023-06-14,11:42,Wednesday,high park,SUDP,5,9,W,BD,5019
 2023,August,2023-08-30,15:16,Wednesday,high park,SUDP,5,8,W,BD,5042
 2023,September,2023-09-24,1:24,Sunday,high park,MUSAN,5,9,E,BD,5332
@@ -7030,6 +7119,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,February,2024-02-08,20:06,Thursday,highway 407,SUO,24,29,N,YU,6121
 2024,December,2024-12-08,18:41,Sunday,highway 407,MUI,24,30,S,YU,5886
 2024,October,2024-10-04,7:57,Friday,highway 407,MUIR,27,29,S,YU,5701
+2024,October,2024-10-23,7:42,Wednesday,highway 407,MUPR1,257,262,N,YU,5976
 2023,January,2023-01-03,19:41,Tuesday,highway 407,MUATC,5,8,S,YU,5866
 2023,January,2023-01-09,19:19,Monday,highway 407,MUATC,5,8,S,YU,5571
 2023,January,2023-01-20,6:35,Friday,highway 407,PUOPO,5,10,S,YU,5991
@@ -7071,6 +7161,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,November,2023-11-09,23:13,Thursday,highway 407,TUCC,15,20,S,YU,5896
 2023,May,2023-05-28,11:00,Sunday,highway 407,SUDP,29,35,N,YU,6006
 2023,June,2023-06-16,21:09,Friday,highway 407,SUUT,34,39,S,YU,5421
+2023,June,2023-06-24,21:17,Saturday,highway 407,MUPR1,103,109,N,YU,5541
 2022,January,2022-01-01,19:13,Saturday,highway 407,PUOPO,5,12,S,YU,5761
 2022,January,2022-01-09,15:40,Sunday,highway 407,PUOPO,5,10,S,YU,5471
 2022,January,2022-01-13,17:32,Thursday,highway 407,MUPAA,5,8,N,YU,5656
@@ -7141,6 +7232,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,May,2022-05-18,15:35,Wednesday,highway 407,MUI,16,19,S,YU,5456
 2022,December,2022-12-16,10:44,Friday,highway 407,MUATC,16,19,S,YU,5406
 2022,October,2022-10-16,17:20,Sunday,highway 407,SUDP,22,27,S,YU,5436
+2022,August,2022-08-02,21:23,Tuesday,highway 407,MUPR1,312,0,S,YU,5741
 2021,March,2021-03-28,1:17,Sunday,highway 407,MUIR,5,10,S,YU,5706
 2021,March,2021-03-28,2:22,Sunday,highway 407,SUDP,5,10,N,YU,5791
 2025,January,2025-01-24,10:04,Friday,islington,TUO,5,9,E,BD,5306
@@ -7204,6 +7296,10 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,April,2025-04-20,8:04,Sunday,islington,PUSI,51,55,W,BD,5001
 2026,January,2026-01-25,22:55,Sunday,islington,PUTIS,55,59,W,BD,5232
 2025,April,2025-04-15,12:45,Tuesday,islington,MUPLB,59,63,E,BD,5002
+2025,July,2025-07-30,14:29,Wednesday,islington,SUAP,62,66,E,BD,5166
+2025,August,2025-08-14,5:40,Thursday,islington,PUTWZ,83,87,E,BD,5023
+2025,March,2025-03-05,10:46,Wednesday,islington,MUPR1,139,143,E,BD,5124
+2026,January,2026-01-26,6:39,Monday,islington,PUTIS,481,0,E,BD,5201
 2024,January,2024-01-22,8:29,Monday,islington,MUCL,5,7,W,BD,5053
 2024,January,2024-01-24,20:35,Wednesday,islington,SUG,5,10,E,BD,5191
 2024,January,2024-01-27,21:42,Saturday,islington,TUS,5,10,W,BD,5378
@@ -7253,6 +7349,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,April,2024-04-20,15:11,Saturday,islington,SUUT,27,32,E,BD,5183
 2024,June,2024-06-17,22:13,Monday,islington,MUPLB,32,37,E,BD,5222
 2024,April,2024-04-04,0:26,Thursday,islington,SUUT,36,42,W,BD,5051
+2024,October,2024-10-23,13:37,Wednesday,islington,SUUT,79,83,W,BD,5351
 2023,February,2023-02-14,6:32,Tuesday,islington,SUUT,5,10,E,BD,5093
 2023,March,2023-03-06,21:47,Monday,islington,MUTO,5,9,E,BD,5156
 2023,March,2023-03-08,8:32,Wednesday,islington,TUCC,5,8,E,BD,5284
@@ -7334,6 +7431,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,July,2022-07-14,21:34,Thursday,islington,SUUT,40,47,W,BD,5039
 2022,April,2022-04-13,20:31,Wednesday,islington,MUPLB,45,52,W,BD,5321
 2022,June,2022-06-22,18:41,Wednesday,islington,MUPLB,48,52,W,BD,5135
+2022,September,2022-09-19,17:13,Monday,islington,MUPR1,114,117,E,BD,5108
 2021,January,2021-01-13,12:38,Wednesday,islington,PUSTS,5,8,W,BD,5261
 2021,March,2021-03-08,23:13,Monday,islington,SUDP,5,12,E,BD,5006
 2021,March,2021-03-11,16:09,Thursday,islington,EUCD,5,9,E,BD,5100
@@ -7343,6 +7441,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,December,2025-12-23,11:02,Tuesday,islington,PUSTS,7,10,E,BD,5098
 2025,December,2025-12-07,13:56,Sunday,islington,PUSTS,7,11,W,BD,5249
 2025,July,2025-07-09,12:48,Wednesday,islington,TUS,6,10,E,BD,5189
+2024,April,2024-04-25,15:36,Thursday,islington,MUPLB,640,645,E,BD,5289
 2024,October,2024-10-02,21:15,Wednesday,islington,SUO,15,20,E,BD,5247
 2023,October,2023-10-10,23:44,Tuesday,islington,EUNT,6,12,E,BD,5088
 2025,February,2025-02-28,21:47,Friday,jane,SUDP,5,10,E,BD,5173
@@ -7418,6 +7517,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,October,2024-10-09,11:30,Wednesday,jane,MUPLB,21,25,E,BD,5361
 2024,November,2024-11-22,21:49,Friday,jane,SUUT,21,25,E,BD,5178
 2024,December,2024-12-11,18:37,Wednesday,jane,MUI,27,31,W,BD,5056
+2024,August,2024-08-01,5:48,Thursday,jane,PUEO,95,0,E,BD,5229
+2024,April,2024-04-11,11:00,Thursday,jane,MUPR1,174,178,E,BD,5047
+2024,March,2024-03-30,23:01,Saturday,jane,MUPR1,187,193,W,BD,5210
 2023,March,2023-03-03,18:46,Friday,jane,MUSAN,5,8,W,BD,5240
 2023,April,2023-04-05,0:25,Wednesday,jane,SUDP,5,13,E,BD,5042
 2023,May,2023-05-11,1:24,Thursday,jane,TUCC,5,11,W,BD,5110
@@ -7448,6 +7550,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,November,2023-11-08,5:51,Wednesday,jane,EUVE,21,0,W,BD,5005
 2023,September,2023-09-26,19:21,Tuesday,jane,SUDP,35,40,E,BD,5318
 2023,December,2023-12-09,9:17,Saturday,jane,MUI,52,57,E,BD,5176
+2023,April,2023-04-19,13:37,Wednesday,jane,PUSSW,75,79,E,BD,5117
 2022,March,2022-03-08,15:27,Tuesday,jane,TUS,5,10,W,BD,5269
 2022,June,2022-06-04,22:59,Saturday,jane,MUPAA,5,12,W,BD,5128
 2022,January,2022-01-31,22:58,Monday,jane,SUDP,6,13,E,BD,5121
@@ -7468,11 +7571,13 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,October,2022-10-15,19:25,Saturday,jane,SUUT,19,23,E,BD,5217
 2022,June,2022-06-30,16:45,Thursday,jane,SUDP,26,30,E,BD,5289
 2022,January,2022-01-25,17:42,Tuesday,jane,MUPLB,41,45,E,BD,5319
+2022,April,2022-04-28,6:02,Thursday,jane,PUTR,388,394,E,BD,5225
 2021,January,2021-01-05,18:48,Tuesday,jane,EUPI,5,8,E,BD,5008
 2021,March,2021-03-16,14:55,Tuesday,jane,EUPI,5,9,W,BD,5054
 2021,April,2021-04-10,18:16,Saturday,jane,PUSCR,5,9,E,BD,5020
 2021,April,2021-04-28,18:15,Wednesday,jane,MUIR,5,9,W,BD,5102
 2024,November,2024-11-11,5:44,Monday,jane,PUTIJ,10,0,W,BD,5276
+2023,September,2023-09-10,10:00,Sunday,jane,PUSTP,79,83,W,BD,5281
 2025,January,2025-01-07,7:03,Tuesday,keele,SUDP,5,8,E,BD,5169
 2025,February,2025-02-28,15:37,Friday,keele,TUO,5,8,W,BD,5130
 2025,March,2025-03-31,15:55,Monday,keele,MUSC,5,9,W,BD,5164
@@ -7555,6 +7660,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2026,January,2026-01-25,18:56,Sunday,keele,PUTIS,41,45,W,BD,5031
 2026,January,2026-01-26,5:52,Monday,keele,PUSIS,55,0,W,BD,5083
 2026,January,2026-01-05,1:11,Monday,keele,MUPLB,57,62,W,BD,5314
+2025,February,2025-02-25,15:40,Tuesday,keele,PUSSW,87,90,E,BD,5000
+2025,February,2025-02-06,0:26,Thursday,keele,PUCSC,101,106,E,BD,5019
 2024,January,2024-01-11,6:14,Thursday,keele,MUTO,5,10,E,YU,5288
 2024,January,2024-01-27,6:04,Saturday,keele,SUG,5,10,W,BD,5235
 2024,January,2024-01-29,21:38,Monday,keele,SUO,5,10,W,BD,5108
@@ -7625,6 +7732,10 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,October,2024-10-07,23:39,Monday,keele,MUPLB,17,23,E,BD,5179
 2024,May,2024-05-03,23:45,Friday,keele,SUO,22,27,W,BD,5126
 2024,November,2024-11-12,15:39,Tuesday,keele,PUSSW,60,63,W,BD,5087
+2024,December,2024-12-10,15:41,Tuesday,keele,PUSSW,67,70,E,BD,5186
+2024,May,2024-05-26,0:20,Sunday,keele,PUTDN,104,110,W,BD,5034
+2024,October,2024-10-27,8:16,Sunday,keele,PUSSW,116,0,W,BD,5100
+2024,July,2024-07-07,7:59,Sunday,keele,EUVE,195,0,E,BD,5179
 2023,January,2023-01-01,8:15,Sunday,keele,TUNOA,5,10,W,BD,0
 2023,January,2023-01-14,20:50,Saturday,keele,SUUT,5,10,W,BD,5106
 2023,January,2023-01-22,8:04,Sunday,keele,SUG,5,10,W,BD,5066
@@ -7696,6 +7807,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,August,2023-08-25,16:42,Friday,keele,SUROB,29,32,W,BD,5266
 2023,August,2023-08-29,12:15,Tuesday,keele,PUSO,32,36,W,BD,5134
 2023,February,2023-02-24,19:19,Friday,keele,SUO,35,39,E,BD,5227
+2023,July,2023-07-17,13:20,Monday,keele,PUTSM,67,71,E,BD,5368
+2023,December,2023-12-05,0:51,Tuesday,keele,MUPR1,77,82,E,BD,5204
+2023,November,2023-11-23,8:48,Thursday,keele,MUPR1,110,112,W,BD,5217
 2022,January,2022-01-17,11:31,Monday,keele,TUOS,5,9,W,BD,5058
 2022,January,2022-01-26,21:11,Wednesday,keele,SUDP,5,12,W,BD,5159
 2022,February,2022-02-10,6:23,Thursday,keele,MUO,5,10,W,BD,5077
@@ -7917,6 +8031,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,June,2025-06-10,19:03,Tuesday,kennedy,PUSSW,43,47,W,BD,5064
 2025,July,2025-07-30,21:12,Wednesday,kennedy,SUDP,50,55,E,BD,5331
 2025,October,2025-10-15,17:40,Wednesday,kennedy,SUO,53,55,W,BD,5338
+2025,April,2025-04-01,19:42,Tuesday,kennedy,PUTTP,202,207,W,BD,5022
 2024,January,2024-01-02,0:08,Tuesday,kennedy,SUDP,5,10,W,BD,5049
 2024,January,2024-01-16,19:28,Tuesday,kennedy,MUSAN,5,10,W,BD,5315
 2024,January,2024-01-19,1:16,Friday,kennedy,MUI,5,10,W,BD,5287
@@ -8051,6 +8166,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,September,2024-09-16,20:57,Monday,kennedy,TUCC,43,48,E,BD,5341
 2024,September,2024-09-30,5:40,Monday,kennedy,PUTWZ,48,0,W,BD,5001
 2024,October,2024-10-22,5:40,Tuesday,kennedy,PUTWZ,53,0,W,BD,5022
+2024,April,2024-04-22,21:26,Monday,kennedy,PUSI,62,67,W,BD,5140
 2023,January,2023-01-02,19:54,Monday,kennedy,TUMVS,5,10,E,BD,5341
 2023,January,2023-01-03,6:17,Tuesday,kennedy,EUDO,5,10,W,BD,5116
 2023,January,2023-01-07,9:08,Saturday,kennedy,MUI,5,10,W,BD,5084
@@ -8166,6 +8282,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,June,2023-06-07,5:16,Wednesday,kennedy,PUTWZ,36,0,W,BD,5101
 2023,June,2023-06-02,20:15,Friday,kennedy,SUAP,38,42,W,BD,5022
 2023,August,2023-08-01,15:58,Tuesday,kennedy,SUO,46,49,W,BD,5158
+2023,September,2023-09-18,15:04,Monday,kennedy,SUO,167,170,W,BD,5260
 2022,January,2022-01-01,9:45,Saturday,kennedy,TUO,5,10,W,BD,5153
 2022,January,2022-01-22,6:22,Saturday,kennedy,EUTR,5,10,W,BD,5307
 2022,January,2022-01-23,11:43,Sunday,kennedy,MUSAN,5,10,W,BD,5268
@@ -8302,6 +8419,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,November,2022-11-01,16:04,Tuesday,kennedy,TUCC,34,37,E,BD,5173
 2022,April,2022-04-10,19:24,Sunday,kennedy,SUAE,50,57,E,BD,5102
 2022,July,2022-07-10,2:20,Sunday,kennedy,SUUT,55,0,W,BD,5303
+2022,October,2022-10-06,13:10,Thursday,kennedy,SUAP,102,105,W,BD,5085
 2021,January,2021-01-01,1:07,Friday,kennedy,EUCD,5,9,E,BD,5249
 2021,January,2021-01-10,19:26,Sunday,kennedy,EUAC,5,10,W,BD,5285
 2021,January,2021-01-13,11:10,Wednesday,kennedy,EUDO,5,8,W,BD,5158
@@ -8436,6 +8554,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,June,2025-06-10,15:54,Tuesday,king,SUUT,29,33,N,YU,5976
 2025,April,2025-04-07,22:05,Monday,king,MUPLB,30,35,S,YU,5401
 2025,November,2025-11-20,16:11,Thursday,king,MUI,53,58,N,YU,6006
+2025,February,2025-02-27,13:43,Thursday,king,PUSSW,75,79,S,YU,5411
 2024,January,2024-01-09,16:47,Tuesday,king,MUO,5,8,N,YU,5676
 2024,January,2024-01-23,13:39,Tuesday,king,SUDP,5,10,S,YU,5681
 2024,February,2024-02-01,12:57,Thursday,king,SUO,5,10,N,YU,6011
@@ -8526,6 +8645,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,December,2024-12-16,13:56,Monday,king,MUIR,25,30,N,YU,5806
 2024,March,2024-03-21,16:10,Thursday,king,SUUT,35,38,N,YU,5561
 2024,September,2024-09-08,8:18,Sunday,king,SUO,45,0,N,YU,5991
+2024,September,2024-09-17,0:02,Tuesday,king,PUSSW,76,81,S,YU,5871
 2023,January,2023-01-30,18:30,Monday,king,SUDP,5,8,S,YU,6086
 2023,February,2023-02-08,18:37,Wednesday,king,SUDP,5,8,N,YU,5656
 2023,February,2023-02-14,0:44,Tuesday,king,MUO,5,11,N,YU,5601
@@ -8600,6 +8720,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,April,2022-04-25,11:34,Monday,king,MUPR1,53,56,N,YU,5681
 2021,February,2021-02-24,9:22,Wednesday,king,SUDP,5,8,N,YU,5766
 2022,April,2022-04-12,0:45,Tuesday,king,PUTWZ,10,17,N,YU,5431
+2025,August,2025-08-17,10:58,Sunday,king,PUTTP,138,144,S,YU,6106
 2024,March,2024-03-24,1:13,Sunday,king,PUTO,30,36,S,YU,5456
 2025,December,2025-12-12,16:36,Friday,king,MUPR1,44,47,S,YU,5946
 2025,January,2025-01-04,6:02,Saturday,kipling,MUCL,5,10,E,BD,5301
@@ -8749,6 +8870,10 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,November,2025-11-09,17:45,Sunday,kipling,PUTIS,42,46,W,BD,5219
 2025,July,2025-07-25,18:48,Friday,kipling,SUAE,44,48,W,BD,5121
 2026,January,2026-01-18,8:15,Sunday,kipling,PUSIS,53,58,W,BD,5257
+2025,July,2025-07-23,14:42,Wednesday,kipling,PUTSM,64,68,W,BD,5090
+2025,March,2025-03-21,8:12,Friday,kipling,TUCC,93,96,E,BD,5142
+2025,March,2025-03-24,5:50,Monday,kipling,PUSI,120,122,E,BD,5289
+2026,January,2026-01-25,18:32,Sunday,kipling,PUTIS,441,445,W,BD,5044
 2024,January,2024-01-06,19:59,Saturday,kipling,EUAC,5,10,E,BD,5052
 2024,January,2024-01-13,5:53,Saturday,kipling,SUG,5,10,E,BD,5149
 2024,January,2024-01-16,18:55,Tuesday,kipling,SUPOL,5,8,E,BD,5325
@@ -8927,6 +9052,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,July,2024-07-26,8:23,Friday,kipling,TUMVS,35,38,W,BD,5218
 2024,December,2024-12-17,18:32,Tuesday,kipling,SUDP,37,41,E,BD,5325
 2024,November,2024-11-05,5:40,Tuesday,kipling,PUSO,39,0,E,BD,5365
+2024,September,2024-09-10,11:39,Tuesday,kipling,PUTIJ,93,97,E,BD,5311
+2024,August,2024-08-27,9:01,Tuesday,kipling,MUPR1,137,139,W,BD,5324
 2023,January,2023-01-14,6:19,Saturday,kipling,MUDD,5,10,E,BD,5155
 2023,January,2023-01-22,22:30,Sunday,kipling,TUNOA,5,10,E,BD,0
 2023,January,2023-01-30,20:00,Monday,kipling,MUTO,5,10,E,BD,5020
@@ -9179,6 +9306,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,October,2022-10-10,20:29,Monday,kipling,SUO,29,34,W,BD,5331
 2022,July,2022-07-31,9:23,Sunday,kipling,TUMVS,49,56,E,BD,5002
 2022,January,2022-01-17,17:08,Monday,kipling,MUWEA,55,59,W,BD,5242
+2022,June,2022-06-17,12:25,Friday,kipling,SUUT,241,245,W,BD,5177
 2021,January,2021-01-05,6:26,Tuesday,kipling,MUTO,5,10,E,BD,5357
 2021,February,2021-02-13,9:40,Saturday,kipling,TUNIP,5,10,E,BD,5124
 2021,February,2021-02-15,0:09,Monday,kipling,PUSIS,5,10,W,BD,5084
@@ -9205,6 +9333,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,March,2024-03-08,13:49,Friday,kipling,TUS,15,19,E,BD,5292
 2024,January,2024-01-24,9:28,Wednesday,kipling,MUO,5,7,E,BD,0
 2022,October,2022-10-14,5:13,Friday,kipling,PUTWZ,9,0,E,BD,5160
+2022,January,2022-01-20,11:43,Thursday,kipling,PUTR,237,240,W,BD,5175
+2024,July,2024-07-16,12:41,Tuesday,kipling,PUSIS,197,201,W,BD,5349
 2026,January,2026-01-16,17:49,Friday,lansdowne,SUDP,26,28,E,BD,5305
 2025,February,2025-02-23,0:19,Sunday,lansdowne,MUSAN,5,11,E,BD,5222
 2025,March,2025-03-01,9:35,Saturday,lansdowne,TUO,5,10,W,BD,5120
@@ -9242,6 +9372,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,July,2025-07-17,21:03,Thursday,lansdowne,SUO,22,27,W,BD,5177
 2025,December,2025-12-24,23:19,Wednesday,lansdowne,MUI,28,32,W,BD,5082
 2025,January,2025-01-29,0:47,Wednesday,lansdowne,PUMO,30,35,W,BD,5155
+2025,November,2025-11-15,12:41,Saturday,lansdowne,MUPR1,163,0,E,BD,5249
 2024,January,2024-01-27,10:44,Saturday,lansdowne,MUDD,5,10,W,BD,5203
 2024,January,2024-01-29,18:05,Monday,lansdowne,SUUT,5,8,E,BD,5324
 2024,February,2024-02-10,6:02,Saturday,lansdowne,PUSI,5,0,E,BD,5159
@@ -9314,6 +9445,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,March,2023-03-31,16:58,Friday,lansdowne,SUO,18,21,W,BD,5177
 2023,February,2023-02-07,7:46,Tuesday,lansdowne,MUPR1,24,27,E,BD,5177
 2023,April,2023-04-27,1:22,Thursday,lansdowne,MUPLB,26,34,E,BD,5143
+2023,May,2023-05-12,15:47,Friday,lansdowne,MUPR1,115,118,W,BD,5136
+2023,January,2023-01-25,14:41,Wednesday,lansdowne,MUPR1,134,137,E,BD,5203
 2022,February,2022-02-11,6:08,Friday,lansdowne,SUDP,5,10,E,BD,5253
 2022,March,2022-03-20,10:27,Sunday,lansdowne,MUSAN,5,10,E,BD,5194
 2022,May,2022-05-19,19:46,Thursday,lansdowne,MUIS,5,9,E,BD,5134
@@ -9453,6 +9586,10 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,June,2025-06-03,12:55,Tuesday,lawrence,MUI,40,44,N,YU,5716
 2025,February,2025-02-11,6:38,Tuesday,lawrence,MUEC,42,44,N,YU,5516
 2026,January,2026-01-23,18:24,Friday,lawrence,EUBK,54,56,N,YU,5456
+2025,January,2025-01-12,23:22,Sunday,lawrence,SUUT,64,70,S,YU,5911
+2025,February,2025-02-16,16:37,Sunday,lawrence,SUO,78,84,S,YU,5406
+2025,June,2025-06-16,20:16,Monday,lawrence,SUUT,79,85,S,YU,5856
+2025,December,2025-12-10,9:32,Wednesday,lawrence,MUPLB,206,209,S,YU,5796
 2024,January,2024-01-19,10:16,Friday,lawrence,PUOPO,5,8,N,YU,5896
 2024,January,2024-01-19,11:40,Friday,lawrence,SUDP,5,10,S,YU,5411
 2024,January,2024-01-26,20:45,Friday,lawrence,PUOPO,5,9,N,YU,5531
@@ -9994,6 +10131,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,January,2025-01-27,20:20,Monday,leslie,MUI,16,23,E,SHP,6196
 2025,October,2025-10-07,13:28,Tuesday,leslie,TUMVS,22,27,E,SHP,6161
 2025,October,2025-10-07,5:37,Tuesday,leslie,PUTWZ,26,0,E,SHP,6161
+2025,April,2025-04-29,12:11,Tuesday,leslie,PUTTP,98,103,W,SHP,6171
 2024,March,2024-03-25,7:25,Monday,leslie,PUSI,5,12,E,SHP,6151
 2024,April,2024-04-06,21:11,Saturday,leslie,PUSTS,5,11,E,SHP,6196
 2024,April,2024-04-09,13:52,Tuesday,leslie,PUOPO,5,12,E,SHP,6181
@@ -10096,6 +10234,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,May,2022-05-14,8:09,Saturday,leslie,SUAP,22,27,W,SHP,6186
 2022,July,2022-07-28,5:55,Thursday,leslie,PUTWZ,25,0,E,SHP,6156
 2022,March,2022-03-01,18:04,Tuesday,leslie,SUUT,42,47,E,SHP,6176
+2022,May,2022-05-14,21:38,Saturday,leslie,MUPR1,102,107,E,SHP,6146
 2021,January,2021-01-22,22:20,Friday,leslie,EUBO,5,10,E,SHP,6156
 2021,February,2021-02-11,9:27,Thursday,leslie,PUSTS,5,10,E,SHP,6141
 2021,June,2021-06-07,14:48,Monday,leslie,MUSAN,5,10,W,SHP,6141
@@ -10148,6 +10287,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,January,2025-01-13,22:51,Monday,main street,SUUT,29,34,E,BD,5038
 2025,February,2025-02-06,20:59,Thursday,main street,SUO,31,35,E,BD,5160
 2025,June,2025-06-28,10:48,Saturday,main street,MUPLB,50,55,W,BD,5370
+2025,July,2025-07-06,8:43,Sunday,main street,MUPLB,76,81,W,BD,5102
 2024,February,2024-02-19,18:18,Monday,main street,SUDP,5,10,W,BD,5333
 2024,February,2024-02-19,19:02,Monday,main street,SUO,5,10,W,BD,5160
 2024,April,2024-04-13,10:02,Saturday,main street,PUTO,5,12,W,BD,5350
@@ -10200,6 +10340,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,February,2024-02-20,12:48,Tuesday,main street,MUI,24,28,E,BD,5219
 2024,February,2024-02-23,6:03,Friday,main street,EUVE,29,34,W,BD,5202
 2024,November,2024-11-29,18:35,Friday,main street,SUO,38,43,E,BD,5309
+2024,September,2024-09-09,20:00,Monday,main street,MUPR1,134,4,W,BD,5151
 2023,February,2023-02-05,10:40,Sunday,main street,MUIS,5,9,W,BD,5111
 2023,May,2023-05-10,10:42,Wednesday,main street,MUIR,5,9,W,BD,5150
 2023,May,2023-05-29,7:17,Monday,main street,MUPAA,5,7,W,BD,5004
@@ -10343,6 +10484,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2026,January,2026-01-18,8:12,Sunday,museum,PUSSW,28,33,S,YU,5486
 2026,January,2026-01-20,15:37,Tuesday,museum,SUBT,37,40,S,YU,5991
 2025,August,2025-08-29,17:55,Friday,museum,MUI,38,41,N,YU,5446
+2025,April,2025-04-19,12:33,Saturday,museum,MUPLB,90,94,S,YU,5706
 2024,January,2024-01-10,11:20,Wednesday,museum,PUSRA,5,10,N,YU,5496
 2024,March,2024-03-06,20:55,Wednesday,museum,SUDP,5,10,S,YU,5476
 2024,April,2024-04-29,8:12,Monday,museum,MUIR,5,8,S,YU,5896
@@ -10402,6 +10544,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,November,2024-11-04,10:14,Monday,museum,SUEAS,24,26,N,YU,6096
 2024,December,2024-12-03,22:39,Tuesday,museum,PUTO,24,29,N,YU,0
 2024,June,2024-06-22,19:22,Saturday,museum,SUUT,27,32,S,YU,5811
+2024,March,2024-03-01,6:08,Friday,museum,PUTSM,491,496,N,YU,5981
 2023,January,2023-01-16,11:57,Monday,museum,PUOPO,5,8,N,YU,5471
 2023,February,2023-02-03,20:56,Friday,museum,MUPAA,5,9,S,YU,5926
 2023,March,2023-03-18,14:56,Saturday,museum,SUDP,5,10,N,YU,5591
@@ -10496,6 +10639,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2021,July,2021-07-26,12:31,Monday,museum,MUATC,5,8,S,YU,5831
 2023,April,2023-04-22,13:53,Saturday,museum,MUPLB,53,59,N,YU,5851
 2023,May,2023-05-13,19:13,Saturday,museum,MUATC,7,13,N,YU,5606
+2022,March,2022-03-14,0:13,Monday,museum,PUSZC,110,115,S,YU,6136
 2025,September,2025-09-30,12:04,Tuesday,north york centre,MUO,37,42,N,YU,5026
 2023,January,2023-01-19,8:34,Thursday,north york centre,PUOPO,5,8,S,YU,5431
 2025,January,2025-01-13,22:29,Monday,north york centre,SUO,5,11,S,YU,5601
@@ -10547,6 +10691,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,February,2025-02-20,19:12,Thursday,north york centre,EUDO,15,18,S,YU,6136
 2025,March,2025-03-04,9:04,Tuesday,north york centre,EUBO,20,23,N,YU,5501
 2025,January,2025-01-17,18:45,Friday,north york centre,SUDP,40,43,S,YU,5984
+2025,August,2025-08-16,15:51,Saturday,north york centre,MUPR1,98,102,S,YU,5766
 2024,January,2024-01-04,6:52,Thursday,north york centre,PUOPO,5,8,S,YU,6046
 2024,March,2024-03-05,11:46,Tuesday,north york centre,MUPAA,5,10,N,YU,5986
 2024,March,2024-03-28,14:37,Thursday,north york centre,PUOPO,5,10,S,YU,5921
@@ -10612,6 +10757,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,November,2024-11-19,9:26,Tuesday,north york centre,EUTR,20,22,N,BD,5401
 2024,August,2024-08-27,8:21,Tuesday,north york centre,MUWR,29,32,N,YU,5631
 2024,December,2024-12-13,21:20,Friday,north york centre,SUAP,36,42,S,YU,5836
+2024,February,2024-02-02,16:01,Friday,north york centre,MUPR1,78,81,S,YU,5651
 2023,January,2023-01-03,6:48,Tuesday,north york centre,PUOPO,5,8,S,YU,5741
 2023,January,2023-01-03,17:23,Tuesday,north york centre,PUOPO,5,8,S,YU,5886
 2023,January,2023-01-26,17:59,Thursday,north york centre,PUOPO,5,8,S,YU,5906
@@ -10678,6 +10824,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,May,2023-05-29,11:47,Monday,north york centre,SUUT,19,24,S,YU,6031
 2023,July,2023-07-18,12:39,Tuesday,north york centre,PUOPO,19,24,N,YU,6091
 2023,April,2023-04-21,23:55,Friday,north york centre,MUATC,23,28,S,YU,5721
+2023,April,2023-04-05,17:19,Wednesday,north york centre,SUUT,137,140,N,YU,5456
 2022,January,2022-01-11,15:38,Tuesday,north york centre,SUUT,5,8,S,YU,5491
 2022,February,2022-02-01,12:57,Tuesday,north york centre,EUDO,5,8,S,YU,5816
 2022,April,2022-04-25,7:46,Monday,north york centre,SUDP,5,8,N,YU,6126
@@ -10706,6 +10853,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,September,2022-09-16,15:16,Friday,north york centre,EUBK,15,18,S,YU,5926
 2022,February,2022-02-11,9:08,Friday,north york centre,MUI,16,19,N,YU,5561
 2022,June,2022-06-10,0:59,Friday,north york centre,SUDP,21,26,S,YU,5931
+2022,March,2022-03-20,14:22,Sunday,north york centre,MUPR1,77,82,S,YU,5911
+2022,October,2022-10-23,19:22,Sunday,north york centre,TUO,139,146,S,YU,5956
 2021,January,2021-01-21,12:05,Thursday,north york centre,SUDP,5,8,N,YU,6021
 2021,February,2021-02-05,12:04,Friday,north york centre,MUPAA,5,8,N,YU,6086
 2021,March,2021-03-21,13:37,Sunday,north york centre,MUSAN,5,10,S,YU,5581
@@ -10781,6 +10930,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,January,2024-01-24,11:55,Wednesday,old mill,SUDP,28,32,E,BD,5095
 2024,December,2024-12-04,11:57,Wednesday,old mill,MUI,29,33,W,BD,5235
 2024,May,2024-05-24,16:05,Friday,old mill,MUI,30,33,E,BD,5004
+2024,July,2024-07-11,11:40,Thursday,old mill,PUSI,126,130,E,BD,5187
+2024,March,2024-03-19,19:01,Tuesday,old mill,MUPR1,159,164,E,BD,5332
+2024,July,2024-07-16,16:00,Tuesday,old mill,MUWEA,340,344,E,BD,5375
 2023,March,2023-03-17,9:01,Friday,old mill,SUDP,5,8,E,BD,5096
 2023,April,2023-04-02,15:12,Sunday,old mill,MUSAN,5,9,W,BD,5342
 2023,April,2023-04-19,22:39,Wednesday,old mill,SUAE,5,13,E,YU,5005
@@ -11086,6 +11238,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,April,2025-04-04,21:23,Friday,ossington,SUO,23,28,W,BD,5021
 2025,November,2025-11-13,18:46,Thursday,ossington,SUDP,27,29,E,BD,5359
 2025,July,2025-07-15,18:27,Tuesday,ossington,MUI,29,32,W,BD,5009
+2025,January,2025-01-29,6:08,Wednesday,ossington,PUTO,89,92,E,BD,5080
 2024,February,2024-02-12,1:35,Monday,ossington,SUDP,5,10,E,BD,5064
 2024,March,2024-03-06,5:55,Wednesday,ossington,SUUT,5,0,W,BD,5306
 2024,March,2024-03-28,20:42,Thursday,ossington,SUO,5,10,E,BD,5352
@@ -11145,6 +11298,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,October,2024-10-12,5:22,Saturday,ossington,EUVE,29,34,W,BD,5341
 2024,April,2024-04-09,8:36,Tuesday,ossington,PUTWZ,33,0,E,BD,5092
 2024,December,2024-12-22,0:27,Sunday,ossington,MUI,55,60,W,BD,5081
+2024,January,2024-01-30,6:17,Tuesday,ossington,MUPR1,135,140,W,BD,5342
 2023,March,2023-03-01,17:43,Wednesday,ossington,TUMVS,5,8,E,BD,5190
 2023,March,2023-03-03,12:59,Friday,ossington,SUDP,5,8,E,BD,5132
 2023,March,2023-03-06,5:55,Monday,ossington,PUSO,5,0,W,BD,5111
@@ -11252,6 +11406,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,November,2022-11-25,20:20,Friday,ossington,SUUT,19,23,E,BD,5212
 2022,December,2022-12-12,16:32,Monday,ossington,SUO,24,27,W,BD,5287
 2022,December,2022-12-08,20:55,Thursday,ossington,SUUT,58,63,E,BD,5128
+2022,July,2022-07-05,10:43,Tuesday,ossington,MUPR1,107,111,E,BD,5224
 2021,February,2021-02-04,22:42,Thursday,ossington,PUTDN,5,11,W,BD,5331
 2021,March,2021-03-30,5:55,Tuesday,ossington,TUS,5,0,W,BD,5302
 2021,March,2021-03-31,5:55,Wednesday,ossington,EUSC,5,0,W,BD,5271
@@ -11412,6 +11567,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,June,2023-06-05,0:58,Monday,pape,EUVE,22,30,W,BD,5216
 2023,December,2023-12-29,15:19,Friday,pape,SUO,23,26,E,BD,5091
 2023,November,2023-11-10,13:00,Friday,pape,TUDOE,25,29,E,BD,5294
+2023,January,2023-01-22,17:39,Sunday,pape,MUPR1,139,144,E,BD,5183
 2022,January,2022-01-31,16:46,Monday,pape,SUDP,5,9,W,BD,5173
 2022,February,2022-02-20,8:50,Sunday,pape,EUCA,5,10,E,BD,5241
 2022,February,2022-02-20,9:57,Sunday,pape,SUUT,5,10,W,BD,5287
@@ -11454,139 +11610,140 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2021,May,2021-05-17,19:28,Monday,pape,MUD,5,12,E,BD,5310
 2021,June,2021-06-07,10:45,Monday,pape,SUAP,5,9,E,BD,5045
 2021,July,2021-07-19,19:38,Monday,pape,MUI,5,9,E,BD,5250
-2025,February,2025-02-07,11:12,Friday,highway 407,SUDP,5,10,S,YU,5871
-2025,April,2025-04-03,6:20,Thursday,highway 407,PUOPO,5,10,N,YU,5686
-2025,August,2025-08-28,18:45,Thursday,highway 407,PUOPO,5,7,N,YU,5741
-2025,December,2025-12-20,22:52,Saturday,highway 407,EUBO,5,10,S,YU,5866
-2025,January,2025-01-07,7:38,Tuesday,highway 407,SUDP,6,9,N,YU,5381
-2025,April,2025-04-07,0:06,Monday,highway 407,MUSAN,6,12,S,YU,5981
-2025,December,2025-12-18,19:22,Thursday,highway 407,PUSO,6,8,S,YU,6106
-2025,March,2025-03-28,15:24,Friday,highway 407,MUIR,7,11,S,YU,5571
-2025,May,2025-05-31,20:33,Saturday,highway 407,SUDP,7,11,N,YU,5671
-2025,November,2025-11-18,7:09,Tuesday,highway 407,PUSRA,7,12,S,YU,5696
-2026,January,2026-01-26,21:45,Monday,highway 407,TUO,7,10,S,YU,5966
-2025,April,2025-04-10,20:21,Thursday,highway 407,SUAP,8,12,S,YU,6001
-2025,May,2025-05-24,11:29,Saturday,highway 407,EUBK,8,12,S,YU,5746
-2025,August,2025-08-27,20:21,Wednesday,highway 407,PUOPO,8,12,S,YU,5896
-2025,November,2025-11-12,14:31,Wednesday,highway 407,EUTL,8,13,N,YU,5486
-2025,December,2025-12-02,1:28,Tuesday,highway 407,TUO,8,13,S,YU,5491
-2026,January,2026-01-07,2:47,Wednesday,highway 407,MUWEA,8,13,N,YU,5881
-2025,October,2025-10-04,13:34,Saturday,highway 407,PUSCR,9,13,N,YU,6021
-2026,January,2026-01-15,16:46,Thursday,highway 407,EUNT,9,12,S,YU,5436
-2025,March,2025-03-18,18:40,Tuesday,highway 407,SUUT,10,13,S,YU,6121
-2025,April,2025-04-27,14:29,Sunday,highway 407,SUDP,10,14,N,YU,6136
-2025,September,2025-09-22,5:59,Monday,highway 407,PUOPO,10,0,S,YU,6081
-2025,April,2025-04-18,9:11,Friday,highway 407,PUOPO,11,17,S,YU,5896
-2025,June,2025-06-01,19:50,Sunday,highway 407,TUO,12,18,N,YU,5471
-2025,January,2025-01-28,20:29,Tuesday,highway 407,SUUT,13,16,N,YU,5701
-2025,March,2025-03-01,18:17,Saturday,highway 407,MUI,20,26,S,YU,6131
-2025,July,2025-07-04,9:47,Friday,highway 407,MUWR,23,28,S,YU,5666
-2025,November,2025-11-10,8:28,Monday,highway 407,MUI,53,56,S,YU,5691
-2024,January,2024-01-20,22:39,Saturday,highway 407,PUOPO,5,12,N,YU,5906
-2024,January,2024-01-23,14:33,Tuesday,highway 407,PUOPO,5,10,N,YU,5841
-2024,March,2024-03-01,22:20,Friday,highway 407,EUNT,5,10,N,YU,5641
-2024,March,2024-03-20,13:03,Wednesday,highway 407,PUOPO,5,10,S,YU,5481
-2024,April,2024-04-16,18:58,Tuesday,highway 407,MUATC,5,8,S,YU,5826
-2024,April,2024-04-30,13:14,Tuesday,highway 407,PUOPO,5,10,S,YU,5481
-2024,May,2024-05-02,19:06,Thursday,highway 407,MUO,5,8,N,YU,6081
-2024,May,2024-05-06,23:14,Monday,highway 407,PUOPO,5,10,S,YU,5846
-2024,August,2024-08-20,18:37,Tuesday,highway 407,MUO,5,8,N,YU,6136
-2024,September,2024-09-24,9:11,Tuesday,highway 407,MUO,5,9,S,YU,5416
-2024,October,2024-10-19,15:17,Saturday,highway 407,MUDD,5,9,S,YU,5461
-2024,October,2024-10-24,15:20,Thursday,highway 407,MUIR,5,10,N,YU,5766
-2024,December,2024-12-10,22:27,Tuesday,highway 407,TUO,5,12,S,YU,5706
-2024,December,2024-12-17,6:40,Tuesday,highway 407,PUOPO,5,10,S,YU,5906
-2024,March,2024-03-24,12:56,Sunday,highway 407,PUOPO,6,10,N,YU,5701
-2024,April,2024-04-24,17:18,Wednesday,highway 407,PUOPO,6,9,S,YU,6136
-2024,May,2024-05-25,10:08,Saturday,highway 407,MUATC,6,10,S,YU,5751
-2024,June,2024-06-02,18:07,Sunday,highway 407,PUOPO,6,12,S,YU,5496
-2024,August,2024-08-20,13:50,Tuesday,highway 407,EUDO,6,11,S,YU,5521
-2024,September,2024-09-20,10:32,Friday,highway 407,PUOPO,6,11,N,YU,5941
-2024,December,2024-12-01,19:05,Sunday,highway 407,MUSAN,6,12,S,YU,5416
-2024,February,2024-02-14,8:36,Wednesday,highway 407,EUNT,7,10,S,YU,5871
-2024,March,2024-03-08,9:53,Friday,highway 407,MUSAN,7,10,S,YU,5711
-2024,May,2024-05-25,10:40,Saturday,highway 407,PUOPO,7,11,S,YU,6086
-2024,May,2024-05-26,7:58,Sunday,highway 407,PUOPO,7,0,S,YU,5551
-2024,August,2024-08-11,23:37,Sunday,highway 407,PUOPO,8,14,S,YU,6071
-2024,January,2024-01-18,7:50,Thursday,highway 407,SUEAS,9,12,S,YU,5961
-2024,February,2024-02-17,14:14,Saturday,highway 407,MUIR,10,14,N,YU,5566
-2024,November,2024-11-02,9:13,Saturday,highway 407,PUOPO,10,16,N,YU,5996
-2024,December,2024-12-25,13:12,Wednesday,highway 407,SUDP,10,14,S,YU,5971
-2024,March,2024-03-25,17:35,Monday,highway 407,MUDD,13,16,S,YU,5646
-2024,March,2024-03-05,17:52,Tuesday,highway 407,SUO,19,22,N,YU,5976
-2024,August,2024-08-20,10:16,Tuesday,highway 407,MUO,21,24,N,YU,5621
-2024,August,2024-08-08,5:55,Thursday,highway 407,SUO,40,0,S,YU,5836
-2023,January,2023-01-01,15:55,Sunday,highway 407,MUSAN,5,9,S,YU,5636
-2023,January,2023-01-08,11:35,Sunday,highway 407,MUI,5,9,N,YU,5546
-2023,February,2023-02-06,6:51,Monday,highway 407,PUOPO,5,10,S,YU,5981
-2023,February,2023-02-08,6:38,Wednesday,highway 407,PUTOE,5,10,S,YU,5806
-2023,March,2023-03-07,7:54,Tuesday,highway 407,PUOPO,5,7,S,YU,5971
-2023,March,2023-03-23,12:38,Thursday,highway 407,MUATC,5,8,N,YU,5971
-2023,April,2023-04-25,15:26,Tuesday,highway 407,MUPAA,5,8,N,YU,5881
-2023,July,2023-07-28,17:11,Friday,highway 407,PUOPO,5,8,N,YU,5861
-2023,August,2023-08-19,6:49,Saturday,highway 407,SUDP,5,11,S,YU,5781
-2023,September,2023-09-19,8:13,Tuesday,highway 407,SUDP,5,8,S,YU,5631
-2023,September,2023-09-30,22:20,Saturday,highway 407,PUOPO,5,11,N,YU,5761
-2023,October,2023-10-03,8:21,Tuesday,highway 407,EUDO,5,8,S,YU,5741
-2023,October,2023-10-13,7:05,Friday,highway 407,MUIS,5,8,S,YU,5941
-2023,October,2023-10-13,14:43,Friday,highway 407,PUOPO,5,10,N,YU,5741
-2023,October,2023-10-16,12:29,Monday,highway 407,TUOS,5,10,N,YU,5821
-2023,November,2023-11-24,21:24,Friday,highway 407,PUOPO,5,10,S,YU,5761
-2023,March,2023-03-18,22:07,Saturday,highway 407,EUOE,6,12,N,YU,5646
-2023,April,2023-04-23,11:36,Sunday,highway 407,PUOPO,6,12,S,YU,6076
-2023,November,2023-11-22,19:45,Wednesday,highway 407,MUDD,6,11,N,YU,6086
-2023,November,2023-11-23,23:36,Thursday,highway 407,PUOPO,6,11,S,YU,5471
-2023,December,2023-12-01,14:59,Friday,highway 407,PUOPO,6,11,S,YU,5956
-2023,July,2023-07-24,7:45,Monday,highway 407,PUOPO,7,10,S,YU,6121
-2023,November,2023-11-23,23:20,Thursday,highway 407,PUOPO,7,13,S,YU,5741
-2023,November,2023-11-13,17:03,Monday,highway 407,EUCD,8,11,N,YU,5521
-2023,November,2023-11-24,5:56,Friday,highway 407,PUOPO,8,0,S,YU,5671
-2023,December,2023-12-12,7:24,Tuesday,highway 407,PUOPO,8,11,N,YU,6111
-2023,April,2023-04-19,8:58,Wednesday,highway 407,MUI,9,12,S,YU,5751
-2023,June,2023-06-28,23:11,Wednesday,highway 407,SUDP,9,14,N,YU,5541
-2023,November,2023-11-03,19:01,Friday,highway 407,PUOPO,9,12,S,YU,5956
-2023,March,2023-03-28,15:08,Tuesday,highway 407,TUO,10,13,S,YU,6101
-2023,May,2023-05-26,2:11,Friday,highway 407,SUDP,10,17,N,YU,5786
-2023,June,2023-06-11,20:38,Sunday,highway 407,MUIR,10,15,N,YU,5406
-2023,August,2023-08-20,0:20,Sunday,highway 407,MUIR,12,18,S,YU,5681
-2023,November,2023-11-23,23:56,Thursday,highway 407,PUOPO,13,18,S,YU,5786
-2023,January,2023-01-20,20:00,Friday,highway 407,TUO,19,22,N,YU,5616
-2023,December,2023-12-29,13:15,Friday,highway 407,SUDP,33,38,S,YU,5956
-2023,January,2023-01-06,18:07,Friday,highway 407,SUAP,38,40,N,YU,5741
-2023,March,2023-03-21,22:06,Tuesday,highway 407,MUPR1,40,45,N,YU,5846
-2022,March,2022-03-21,23:05,Monday,highway 407,TUSUP,5,10,S,YU,5426
-2022,April,2022-04-15,23:33,Friday,highway 407,MUPAA,5,12,N,YU,6061
-2022,May,2022-05-23,11:37,Monday,highway 407,PUOPO,5,10,S,YU,5571
-2022,May,2022-05-27,12:51,Friday,highway 407,MUATC,5,8,N,YU,5791
-2022,June,2022-06-04,20:29,Saturday,highway 407,SUO,5,12,S,YU,5896
-2022,July,2022-07-31,8:02,Sunday,highway 407,MUATC,5,11,S,YU,5811
-2022,August,2022-08-02,16:17,Tuesday,highway 407,PUOPO,5,8,S,YU,5786
-2022,August,2022-08-15,20:31,Monday,highway 407,PUOPO,5,10,S,YU,5606
-2022,August,2022-08-24,2:04,Wednesday,highway 407,MUD,5,10,N,YU,5976
-2022,August,2022-08-24,0:29,Wednesday,highway 407,PUOPO,5,10,S,YU,5876
-2022,September,2022-09-26,6:00,Monday,highway 407,PUOPO,5,0,S,YU,5641
-2022,September,2022-09-28,6:20,Wednesday,highway 407,PUOPO,5,11,S,YU,5761
-2022,October,2022-10-29,14:00,Saturday,highway 407,EUDO,5,9,S,YU,5706
-2022,February,2022-02-17,7:13,Thursday,highway 407,MUDD,6,9,S,YU,5731
-2022,November,2022-11-08,14:08,Tuesday,highway 407,MUI,6,9,N,YU,5506
-2022,November,2022-11-09,7:26,Wednesday,highway 407,PUOPO,6,9,S,YU,5791
-2022,March,2022-03-21,2:25,Monday,highway 407,SUUT,7,14,N,YU,6136
-2022,June,2022-06-15,6:05,Wednesday,highway 407,PUOPO,7,10,S,YU,6026
-2022,June,2022-06-22,23:24,Wednesday,highway 407,MUPAA,7,12,S,YU,5781
-2022,August,2022-08-29,16:05,Monday,highway 407,SUAP,7,10,N,YU,5991
-2022,January,2022-01-06,17:29,Thursday,highway 407,SUDP,9,12,S,YU,5661
-2022,January,2022-01-26,21:03,Wednesday,highway 407,MUATC,10,15,S,YU,5946
-2022,April,2022-04-11,15:47,Monday,highway 407,SUEAS,11,14,N,YU,5726
-2022,August,2022-08-06,0:56,Saturday,highway 407,SUUT,11,19,S,YU,5716
-2022,September,2022-09-11,0:08,Sunday,highway 407,SUBT,11,18,N,YU,6026
-2022,September,2022-09-20,16:21,Tuesday,highway 407,TUCC,11,14,N,YU,5926
-2022,October,2022-10-21,0:04,Friday,highway 407,PUOPO,11,16,S,YU,5761
-2022,July,2022-07-27,7:34,Wednesday,highway 407,SUDP,15,18,S,YU,5731
-2022,October,2022-10-18,21:15,Tuesday,highway 407,SUO,25,28,N,YU,5921
-2021,January,2021-01-07,16:51,Thursday,highway 407,SUDP,5,8,S,YU,5791
-2021,March,2021-03-23,1:16,Tuesday,highway 407,MUTO,5,10,S,YU,5896
-2021,May,2021-05-26,17:25,Wednesday,highway 407,MUATC,5,10,N,YU,5981
-2021,August,2021-08-22,9:24,Sunday,highway 407,PUOPO,5,9,S,YU,6066
+2025,February,2025-02-07,11:12,Friday,pioneer village,SUDP,5,10,S,YU,5871
+2025,April,2025-04-03,6:20,Thursday,pioneer village,PUOPO,5,10,N,YU,5686
+2025,August,2025-08-28,18:45,Thursday,pioneer village,PUOPO,5,7,N,YU,5741
+2025,December,2025-12-20,22:52,Saturday,pioneer village,EUBO,5,10,S,YU,5866
+2025,January,2025-01-07,7:38,Tuesday,pioneer village,SUDP,6,9,N,YU,5381
+2025,April,2025-04-07,0:06,Monday,pioneer village,MUSAN,6,12,S,YU,5981
+2025,December,2025-12-18,19:22,Thursday,pioneer village,PUSO,6,8,S,YU,6106
+2025,March,2025-03-28,15:24,Friday,pioneer village,MUIR,7,11,S,YU,5571
+2025,May,2025-05-31,20:33,Saturday,pioneer village,SUDP,7,11,N,YU,5671
+2025,November,2025-11-18,7:09,Tuesday,pioneer village,PUSRA,7,12,S,YU,5696
+2026,January,2026-01-26,21:45,Monday,pioneer village,TUO,7,10,S,YU,5966
+2025,April,2025-04-10,20:21,Thursday,pioneer village,SUAP,8,12,S,YU,6001
+2025,May,2025-05-24,11:29,Saturday,pioneer village,EUBK,8,12,S,YU,5746
+2025,August,2025-08-27,20:21,Wednesday,pioneer village,PUOPO,8,12,S,YU,5896
+2025,November,2025-11-12,14:31,Wednesday,pioneer village,EUTL,8,13,N,YU,5486
+2025,December,2025-12-02,1:28,Tuesday,pioneer village,TUO,8,13,S,YU,5491
+2026,January,2026-01-07,2:47,Wednesday,pioneer village,MUWEA,8,13,N,YU,5881
+2025,October,2025-10-04,13:34,Saturday,pioneer village,PUSCR,9,13,N,YU,6021
+2026,January,2026-01-15,16:46,Thursday,pioneer village,EUNT,9,12,S,YU,5436
+2025,March,2025-03-18,18:40,Tuesday,pioneer village,SUUT,10,13,S,YU,6121
+2025,April,2025-04-27,14:29,Sunday,pioneer village,SUDP,10,14,N,YU,6136
+2025,September,2025-09-22,5:59,Monday,pioneer village,PUOPO,10,0,S,YU,6081
+2025,April,2025-04-18,9:11,Friday,pioneer village,PUOPO,11,17,S,YU,5896
+2025,June,2025-06-01,19:50,Sunday,pioneer village,TUO,12,18,N,YU,5471
+2025,January,2025-01-28,20:29,Tuesday,pioneer village,SUUT,13,16,N,YU,5701
+2025,March,2025-03-01,18:17,Saturday,pioneer village,MUI,20,26,S,YU,6131
+2025,July,2025-07-04,9:47,Friday,pioneer village,MUWR,23,28,S,YU,5666
+2025,November,2025-11-10,8:28,Monday,pioneer village,MUI,53,56,S,YU,5691
+2024,January,2024-01-20,22:39,Saturday,pioneer village,PUOPO,5,12,N,YU,5906
+2024,January,2024-01-23,14:33,Tuesday,pioneer village,PUOPO,5,10,N,YU,5841
+2024,March,2024-03-01,22:20,Friday,pioneer village,EUNT,5,10,N,YU,5641
+2024,March,2024-03-20,13:03,Wednesday,pioneer village,PUOPO,5,10,S,YU,5481
+2024,April,2024-04-16,18:58,Tuesday,pioneer village,MUATC,5,8,S,YU,5826
+2024,April,2024-04-30,13:14,Tuesday,pioneer village,PUOPO,5,10,S,YU,5481
+2024,May,2024-05-02,19:06,Thursday,pioneer village,MUO,5,8,N,YU,6081
+2024,May,2024-05-06,23:14,Monday,pioneer village,PUOPO,5,10,S,YU,5846
+2024,August,2024-08-20,18:37,Tuesday,pioneer village,MUO,5,8,N,YU,6136
+2024,September,2024-09-24,9:11,Tuesday,pioneer village,MUO,5,9,S,YU,5416
+2024,October,2024-10-19,15:17,Saturday,pioneer village,MUDD,5,9,S,YU,5461
+2024,October,2024-10-24,15:20,Thursday,pioneer village,MUIR,5,10,N,YU,5766
+2024,December,2024-12-10,22:27,Tuesday,pioneer village,TUO,5,12,S,YU,5706
+2024,December,2024-12-17,6:40,Tuesday,pioneer village,PUOPO,5,10,S,YU,5906
+2024,March,2024-03-24,12:56,Sunday,pioneer village,PUOPO,6,10,N,YU,5701
+2024,April,2024-04-24,17:18,Wednesday,pioneer village,PUOPO,6,9,S,YU,6136
+2024,May,2024-05-25,10:08,Saturday,pioneer village,MUATC,6,10,S,YU,5751
+2024,June,2024-06-02,18:07,Sunday,pioneer village,PUOPO,6,12,S,YU,5496
+2024,August,2024-08-20,13:50,Tuesday,pioneer village,EUDO,6,11,S,YU,5521
+2024,September,2024-09-20,10:32,Friday,pioneer village,PUOPO,6,11,N,YU,5941
+2024,December,2024-12-01,19:05,Sunday,pioneer village,MUSAN,6,12,S,YU,5416
+2024,February,2024-02-14,8:36,Wednesday,pioneer village,EUNT,7,10,S,YU,5871
+2024,March,2024-03-08,9:53,Friday,pioneer village,MUSAN,7,10,S,YU,5711
+2024,May,2024-05-25,10:40,Saturday,pioneer village,PUOPO,7,11,S,YU,6086
+2024,May,2024-05-26,7:58,Sunday,pioneer village,PUOPO,7,0,S,YU,5551
+2024,August,2024-08-11,23:37,Sunday,pioneer village,PUOPO,8,14,S,YU,6071
+2024,January,2024-01-18,7:50,Thursday,pioneer village,SUEAS,9,12,S,YU,5961
+2024,February,2024-02-17,14:14,Saturday,pioneer village,MUIR,10,14,N,YU,5566
+2024,November,2024-11-02,9:13,Saturday,pioneer village,PUOPO,10,16,N,YU,5996
+2024,December,2024-12-25,13:12,Wednesday,pioneer village,SUDP,10,14,S,YU,5971
+2024,March,2024-03-25,17:35,Monday,pioneer village,MUDD,13,16,S,YU,5646
+2024,March,2024-03-05,17:52,Tuesday,pioneer village,SUO,19,22,N,YU,5976
+2024,August,2024-08-20,10:16,Tuesday,pioneer village,MUO,21,24,N,YU,5621
+2024,August,2024-08-08,5:55,Thursday,pioneer village,SUO,40,0,S,YU,5836
+2023,January,2023-01-01,15:55,Sunday,pioneer village,MUSAN,5,9,S,YU,5636
+2023,January,2023-01-08,11:35,Sunday,pioneer village,MUI,5,9,N,YU,5546
+2023,February,2023-02-06,6:51,Monday,pioneer village,PUOPO,5,10,S,YU,5981
+2023,February,2023-02-08,6:38,Wednesday,pioneer village,PUTOE,5,10,S,YU,5806
+2023,March,2023-03-07,7:54,Tuesday,pioneer village,PUOPO,5,7,S,YU,5971
+2023,March,2023-03-23,12:38,Thursday,pioneer village,MUATC,5,8,N,YU,5971
+2023,April,2023-04-25,15:26,Tuesday,pioneer village,MUPAA,5,8,N,YU,5881
+2023,July,2023-07-28,17:11,Friday,pioneer village,PUOPO,5,8,N,YU,5861
+2023,August,2023-08-19,6:49,Saturday,pioneer village,SUDP,5,11,S,YU,5781
+2023,September,2023-09-19,8:13,Tuesday,pioneer village,SUDP,5,8,S,YU,5631
+2023,September,2023-09-30,22:20,Saturday,pioneer village,PUOPO,5,11,N,YU,5761
+2023,October,2023-10-03,8:21,Tuesday,pioneer village,EUDO,5,8,S,YU,5741
+2023,October,2023-10-13,7:05,Friday,pioneer village,MUIS,5,8,S,YU,5941
+2023,October,2023-10-13,14:43,Friday,pioneer village,PUOPO,5,10,N,YU,5741
+2023,October,2023-10-16,12:29,Monday,pioneer village,TUOS,5,10,N,YU,5821
+2023,November,2023-11-24,21:24,Friday,pioneer village,PUOPO,5,10,S,YU,5761
+2023,March,2023-03-18,22:07,Saturday,pioneer village,EUOE,6,12,N,YU,5646
+2023,April,2023-04-23,11:36,Sunday,pioneer village,PUOPO,6,12,S,YU,6076
+2023,November,2023-11-22,19:45,Wednesday,pioneer village,MUDD,6,11,N,YU,6086
+2023,November,2023-11-23,23:36,Thursday,pioneer village,PUOPO,6,11,S,YU,5471
+2023,December,2023-12-01,14:59,Friday,pioneer village,PUOPO,6,11,S,YU,5956
+2023,July,2023-07-24,7:45,Monday,pioneer village,PUOPO,7,10,S,YU,6121
+2023,November,2023-11-23,23:20,Thursday,pioneer village,PUOPO,7,13,S,YU,5741
+2023,November,2023-11-13,17:03,Monday,pioneer village,EUCD,8,11,N,YU,5521
+2023,November,2023-11-24,5:56,Friday,pioneer village,PUOPO,8,0,S,YU,5671
+2023,December,2023-12-12,7:24,Tuesday,pioneer village,PUOPO,8,11,N,YU,6111
+2023,April,2023-04-19,8:58,Wednesday,pioneer village,MUI,9,12,S,YU,5751
+2023,June,2023-06-28,23:11,Wednesday,pioneer village,SUDP,9,14,N,YU,5541
+2023,November,2023-11-03,19:01,Friday,pioneer village,PUOPO,9,12,S,YU,5956
+2023,March,2023-03-28,15:08,Tuesday,pioneer village,TUO,10,13,S,YU,6101
+2023,May,2023-05-26,2:11,Friday,pioneer village,SUDP,10,17,N,YU,5786
+2023,June,2023-06-11,20:38,Sunday,pioneer village,MUIR,10,15,N,YU,5406
+2023,August,2023-08-20,0:20,Sunday,pioneer village,MUIR,12,18,S,YU,5681
+2023,November,2023-11-23,23:56,Thursday,pioneer village,PUOPO,13,18,S,YU,5786
+2023,January,2023-01-20,20:00,Friday,pioneer village,TUO,19,22,N,YU,5616
+2023,December,2023-12-29,13:15,Friday,pioneer village,SUDP,33,38,S,YU,5956
+2023,January,2023-01-06,18:07,Friday,pioneer village,SUAP,38,40,N,YU,5741
+2023,March,2023-03-21,22:06,Tuesday,pioneer village,MUPR1,40,45,N,YU,5846
+2022,March,2022-03-21,23:05,Monday,pioneer village,TUSUP,5,10,S,YU,5426
+2022,April,2022-04-15,23:33,Friday,pioneer village,MUPAA,5,12,N,YU,6061
+2022,May,2022-05-23,11:37,Monday,pioneer village,PUOPO,5,10,S,YU,5571
+2022,May,2022-05-27,12:51,Friday,pioneer village,MUATC,5,8,N,YU,5791
+2022,June,2022-06-04,20:29,Saturday,pioneer village,SUO,5,12,S,YU,5896
+2022,July,2022-07-31,8:02,Sunday,pioneer village,MUATC,5,11,S,YU,5811
+2022,August,2022-08-02,16:17,Tuesday,pioneer village,PUOPO,5,8,S,YU,5786
+2022,August,2022-08-15,20:31,Monday,pioneer village,PUOPO,5,10,S,YU,5606
+2022,August,2022-08-24,2:04,Wednesday,pioneer village,MUD,5,10,N,YU,5976
+2022,August,2022-08-24,0:29,Wednesday,pioneer village,PUOPO,5,10,S,YU,5876
+2022,September,2022-09-26,6:00,Monday,pioneer village,PUOPO,5,0,S,YU,5641
+2022,September,2022-09-28,6:20,Wednesday,pioneer village,PUOPO,5,11,S,YU,5761
+2022,October,2022-10-29,14:00,Saturday,pioneer village,EUDO,5,9,S,YU,5706
+2022,February,2022-02-17,7:13,Thursday,pioneer village,MUDD,6,9,S,YU,5731
+2022,November,2022-11-08,14:08,Tuesday,pioneer village,MUI,6,9,N,YU,5506
+2022,November,2022-11-09,7:26,Wednesday,pioneer village,PUOPO,6,9,S,YU,5791
+2022,March,2022-03-21,2:25,Monday,pioneer village,SUUT,7,14,N,YU,6136
+2022,June,2022-06-15,6:05,Wednesday,pioneer village,PUOPO,7,10,S,YU,6026
+2022,June,2022-06-22,23:24,Wednesday,pioneer village,MUPAA,7,12,S,YU,5781
+2022,August,2022-08-29,16:05,Monday,pioneer village,SUAP,7,10,N,YU,5991
+2022,January,2022-01-06,17:29,Thursday,pioneer village,SUDP,9,12,S,YU,5661
+2022,January,2022-01-26,21:03,Wednesday,pioneer village,MUATC,10,15,S,YU,5946
+2022,April,2022-04-11,15:47,Monday,pioneer village,SUEAS,11,14,N,YU,5726
+2022,August,2022-08-06,0:56,Saturday,pioneer village,SUUT,11,19,S,YU,5716
+2022,September,2022-09-11,0:08,Sunday,pioneer village,SUBT,11,18,N,YU,6026
+2022,September,2022-09-20,16:21,Tuesday,pioneer village,TUCC,11,14,N,YU,5926
+2022,October,2022-10-21,0:04,Friday,pioneer village,PUOPO,11,16,S,YU,5761
+2022,July,2022-07-27,7:34,Wednesday,pioneer village,SUDP,15,18,S,YU,5731
+2022,October,2022-10-18,21:15,Tuesday,pioneer village,SUO,25,28,N,YU,5921
+2022,November,2022-11-28,8:57,Monday,pioneer village,SUBT,85,88,N,YU,6121
+2021,January,2021-01-07,16:51,Thursday,pioneer village,SUDP,5,8,S,YU,5791
+2021,March,2021-03-23,1:16,Tuesday,pioneer village,MUTO,5,10,S,YU,5896
+2021,May,2021-05-26,17:25,Wednesday,pioneer village,MUATC,5,10,N,YU,5981
+2021,August,2021-08-22,9:24,Sunday,pioneer village,PUOPO,5,9,S,YU,6066
 2023,October,2023-10-11,19:54,Wednesday,finch,SUDP,5,10,N,YU,5946
 2025,January,2025-01-16,21:38,Thursday,queen,SUDP,5,9,S,YU,5721
 2025,April,2025-04-26,13:15,Saturday,queen,MUI,5,9,S,YU,5426
@@ -11849,6 +12006,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,June,2022-06-17,21:45,Friday,queen,SUUT,26,31,S,YU,5966
 2022,December,2022-12-08,18:03,Thursday,queen,MUI,27,30,N,YU,5731
 2022,September,2022-09-18,12:41,Sunday,queen,SUO,28,33,N,YU,5516
+2022,June,2022-06-20,6:38,Monday,queen,MUPLA,101,104,N,YU,5776
 2021,January,2021-01-23,18:54,Saturday,queen,MUSAN,5,10,N,YU,5776
 2021,February,2021-02-25,14:34,Thursday,queen,SUDP,5,8,N,YU,5916
 2021,March,2021-03-07,17:20,Sunday,queen,MUSAN,5,10,N,YU,6081
@@ -12000,6 +12158,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,January,2022-01-12,23:41,Wednesday,queens park,SUUT,19,24,S,YU,5786
 2022,October,2022-10-11,1:48,Tuesday,queens park,SUUT,20,0,N,YU,5786
 2022,October,2022-10-03,13:28,Monday,queens park,SUO,22,25,N,YU,5946
+2022,March,2022-03-01,9:07,Tuesday,queens park,MUPR1,94,97,N,YU,5726
 2021,July,2021-07-01,18:06,Thursday,queens park,EUDO,5,10,N,YU,5561
 2025,January,2025-01-03,12:54,Friday,rosedale,PUOPO,5,10,N,YU,5736
 2025,January,2025-01-13,16:51,Monday,rosedale,SUO,5,9,N,YU,5586
@@ -12090,6 +12249,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,March,2025-03-06,0:58,Thursday,rosedale,SUUT,30,35,S,YU,6096
 2025,April,2025-04-22,14:20,Tuesday,rosedale,SUAP,32,36,N,YU,5751
 2025,December,2025-12-22,11:24,Monday,rosedale,MUPLB,32,35,S,YU,5536
+2025,February,2025-02-16,16:56,Sunday,rosedale,MUWEA,257,262,S,YU,5931
 2024,January,2024-01-04,9:20,Thursday,rosedale,MUATC,5,8,N,YU,5976
 2024,January,2024-01-16,23:34,Tuesday,rosedale,PUTO,5,10,N,YU,0
 2024,February,2024-02-14,21:44,Wednesday,rosedale,EUCD,5,10,N,YU,5686
@@ -12184,6 +12344,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,February,2024-02-15,10:20,Thursday,rosedale,MUPLB,42,46,N,YU,5571
 2024,December,2024-12-17,13:23,Tuesday,rosedale,SUO,42,47,N,YU,6111
 2024,September,2024-09-30,14:11,Monday,rosedale,SUUT,59,63,S,YU,6121
+2024,June,2024-06-14,18:06,Friday,rosedale,MUPR1,79,82,S,YU,5496
 2023,January,2023-01-18,12:16,Wednesday,rosedale,PUOPO,5,8,S,YU,5521
 2023,January,2023-01-25,0:28,Wednesday,rosedale,MUPAA,5,10,N,YU,6131
 2023,January,2023-01-26,1:46,Thursday,rosedale,SUUT,5,0,N,YU,5486
@@ -12262,6 +12423,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,April,2023-04-25,20:25,Tuesday,rosedale,SUEAS,17,20,N,YU,5606
 2023,July,2023-07-06,1:52,Thursday,rosedale,MUI,19,25,N,YU,5701
 2023,June,2023-06-25,17:12,Sunday,rosedale,SUUT,23,27,S,YU,5416
+2023,May,2023-05-30,13:05,Tuesday,rosedale,SUUT,112,117,N,YU,6061
 2022,February,2022-02-09,19:10,Wednesday,rosedale,SUDP,5,8,N,YU,5731
 2022,February,2022-02-28,14:52,Monday,rosedale,MUI,5,8,N,YU,5836
 2022,March,2022-03-08,19:47,Tuesday,rosedale,SUDP,5,8,S,YU,5685
@@ -12400,6 +12562,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,October,2025-10-25,22:12,Saturday,royal york,SUPOL,16,22,W,BD,5149
 2025,October,2025-10-27,1:35,Monday,royal york,SUAP,19,24,W,BD,5115
 2025,September,2025-09-30,16:39,Tuesday,royal york,EUO,51,54,E,BD,5288
+2025,January,2025-01-10,8:50,Friday,royal york,EUAC,75,77,W,BD,5226
 2024,January,2024-01-19,15:39,Friday,royal york,MUD,5,8,E,BD,5211
 2024,February,2024-02-18,19:39,Sunday,royal york,SUDP,5,10,W,BD,5028
 2024,April,2024-04-13,19:42,Saturday,royal york,SUDP,5,10,E,BD,5197
@@ -12508,6 +12671,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,October,2022-10-20,21:27,Thursday,royal york,PUSRA,16,22,W,BD,5275
 2022,August,2022-08-25,15:05,Thursday,royal york,SUDP,17,21,E,BD,5181
 2022,April,2022-04-13,11:47,Wednesday,royal york,MUI,20,24,W,BD,5089
+2022,May,2022-05-21,13:00,Saturday,royal york,PUTDN,76,80,E,BD,5342
+2022,March,2022-03-20,13:46,Sunday,royal york,MUPR1,135,140,E,BD,5134
 2021,January,2021-01-01,10:04,Friday,royal york,PUSRA,5,9,E,BD,5024
 2021,February,2021-02-07,22:27,Sunday,royal york,MUO,5,10,W,BD,5314
 2021,April,2021-04-07,0:01,Wednesday,royal york,SUDP,5,13,E,BD,5079
@@ -12557,6 +12722,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,July,2024-07-25,23:12,Thursday,runnymede,MUIR,25,30,E,BD,5211
 2024,October,2024-10-15,14:20,Tuesday,runnymede,SUDP,25,29,W,BD,5288
 2024,July,2024-07-31,23:59,Wednesday,runnymede,MUFS,40,45,E,BD,5354
+2024,August,2024-08-01,5:47,Thursday,runnymede,PUEO,95,0,W,BD,5181
 2023,January,2023-01-03,17:56,Tuesday,runnymede,MUIR,5,8,W,BD,5351
 2023,February,2023-02-09,13:26,Thursday,runnymede,EUNT,5,8,E,BD,5340
 2023,July,2023-07-05,19:21,Wednesday,runnymede,MUO,5,10,W,BD,5189
@@ -12586,6 +12752,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,February,2023-02-23,21:50,Thursday,runnymede,SUDP,19,23,W,BD,5103
 2023,August,2023-08-14,7:21,Monday,runnymede,SUUT,19,21,E,BD,5329
 2023,April,2023-04-28,0:23,Friday,runnymede,SUAP,48,56,W,BD,5229
+2023,September,2023-09-16,16:08,Saturday,runnymede,MUPR1,70,74,W,BD,5030
 2022,September,2022-09-22,21:56,Thursday,runnymede,SUAP,5,9,W,BD,5208
 2022,May,2022-05-21,17:43,Saturday,runnymede,PUSCR,6,10,E,BD,5187
 2022,December,2022-12-24,0:36,Saturday,runnymede,TUO,6,12,W,BD,5318
@@ -12598,6 +12765,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,May,2022-05-14,15:37,Saturday,runnymede,SUO,15,20,E,BD,5241
 2022,January,2022-01-01,12:14,Saturday,runnymede,SUUT,20,25,W,BD,6263
 2022,August,2022-08-03,5:59,Wednesday,runnymede,SUUT,35,40,E,BD,5353
+2022,December,2022-12-21,21:59,Wednesday,runnymede,SUUT,61,66,E,BD,5189
+2022,January,2022-01-14,19:05,Friday,runnymede,MUPR1,129,132,E,BD,5041
 2021,January,2021-01-11,9:38,Monday,runnymede,TUMVS,5,8,W,BD,5132
 2021,March,2021-03-25,17:49,Thursday,runnymede,MUPAA,5,9,W,BD,5292
 2021,April,2021-04-26,9:22,Monday,runnymede,SUO,5,9,E,BD,5073
@@ -12667,6 +12836,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,January,2025-01-24,7:38,Friday,sheppard-yonge,SUAP,23,25,N,YU,6121
 2025,May,2025-05-26,5:35,Monday,sheppard-yonge,PUTWZ,26,0,S,YU,5521
 2025,June,2025-06-14,18:06,Saturday,sheppard-yonge,SUEAS,37,41,S,YU,6101
+2025,May,2025-05-12,0:41,Monday,sheppard-yonge,PUTWZ,76,82,S,YU,5906
 2024,January,2024-01-16,14:14,Tuesday,sheppard-yonge,MUSAN,5,10,N,YU,5646
 2024,January,2024-01-24,1:12,Wednesday,sheppard-yonge,MUTO,5,10,S,YU,5806
 2024,February,2024-02-07,17:16,Wednesday,sheppard-yonge,MUIR,5,8,N,YU,5546
@@ -12873,6 +13043,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,October,2022-10-21,19:02,Friday,sheppard-yonge,SUUT,25,28,S,YU,5891
 2022,February,2022-02-18,0:08,Friday,sheppard-yonge,SUO,44,49,N,YU,5531
 2022,February,2022-02-08,14:51,Tuesday,sheppard-yonge,PUTSM,55,58,N,YU,5756
+2022,February,2022-02-27,9:49,Sunday,sheppard-yonge,PUEWZ,68,74,S,YU,5751
 2021,January,2021-01-10,10:07,Sunday,sheppard-yonge,SUDP,5,9,S,YU,5631
 2021,January,2021-01-25,1:03,Monday,sheppard-yonge,EUDO,5,10,S,YU,5616
 2021,January,2021-01-25,6:39,Monday,sheppard-yonge,PUTIJ,5,8,N,YU,5411
@@ -12884,6 +13055,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2021,July,2021-07-01,9:24,Thursday,sheppard-yonge,MUDD,5,10,N,YU,5386
 2021,July,2021-07-06,10:57,Tuesday,sheppard-yonge,PUTR,5,8,S,YU,5386
 2021,July,2021-07-27,18:14,Tuesday,sheppard-yonge,SUDP,5,8,S,YU,5691
+2025,November,2025-11-26,18:20,Wednesday,sheppard-yonge,PUTS,480,485,S,YU,5401
 2024,June,2024-06-19,15:27,Wednesday,sheppard-yonge,MUO,6,11,N,YU,6071
 2025,January,2025-01-24,15:45,Friday,sheppard west,TUO,5,9,S,YU,5621
 2025,February,2025-02-07,19:38,Friday,sheppard west,PUOPO,5,8,N,YU,5761
@@ -12983,6 +13155,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,May,2025-05-01,1:39,Thursday,sheppard west,SUO,38,43,S,YU,5466
 2026,January,2026-01-26,23:58,Monday,sheppard west,EUOE,46,51,N,YU,5796
 2025,February,2025-02-13,16:02,Thursday,sheppard west,SUUT,56,59,S,YU,5626
+2025,December,2025-12-19,16:29,Friday,sheppard west,MUPR1,150,152,S,YU,5511
+2025,February,2025-02-16,11:03,Sunday,sheppard west,MUWEA,900,906,N,YU,5496
 2024,January,2024-01-10,12:06,Wednesday,sheppard west,MUPAA,5,10,N,YU,5466
 2024,January,2024-01-15,5:56,Monday,sheppard west,SUDP,5,15,N,YU,5581
 2024,January,2024-01-22,12:29,Monday,sheppard west,MUSAN,5,10,S,YU,5796
@@ -13063,6 +13237,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,August,2024-08-18,7:45,Sunday,sheppard west,PUMO,30,0,N,YU,6081
 2024,December,2024-12-11,20:54,Wednesday,sheppard west,SUUT,45,50,N,YU,5531
 2024,April,2024-04-01,19:03,Monday,sheppard west,SUUT,55,58,N,YU,5796
+2024,April,2024-04-20,19:48,Saturday,sheppard west,MUPR1,80,84,N,YU,5811
 2023,January,2023-01-11,6:25,Wednesday,sheppard west,EUBO,5,10,N,YU,5381
 2023,January,2023-01-20,23:33,Friday,sheppard west,SUDP,5,10,N,YU,5996
 2023,February,2023-02-23,6:29,Thursday,sheppard west,TUNIP,5,10,N,YU,0
@@ -13149,6 +13324,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,March,2023-03-17,1:54,Friday,sheppard west,MUI,41,46,S,YU,6106
 2023,October,2023-10-12,23:00,Thursday,sheppard west,SUUT,50,55,N,YU,5681
 2023,October,2023-10-11,9:29,Wednesday,sheppard west,SUUT,51,55,N,YU,5811
+2023,September,2023-09-06,9:23,Wednesday,sheppard west,MUPR1,100,105,N,YU,5991
+2023,March,2023-03-23,15:46,Thursday,sheppard west,MUPR1,202,205,S,YU,5621
 2022,January,2022-01-05,19:00,Wednesday,sheppard west,SUDP,5,8,N,YU,6036
 2022,January,2022-01-18,7:56,Tuesday,sheppard west,MUO,5,10,S,YU,5761
 2022,January,2022-01-20,8:07,Thursday,sheppard west,MUWEA,5,10,S,YU,5391
@@ -13241,6 +13418,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2021,May,2021-05-01,14:18,Saturday,sheppard west,MUATC,5,10,N,YU,5741
 2021,May,2021-05-25,6:06,Tuesday,sheppard west,TUNOA,5,10,N,YU,5971
 2021,June,2021-06-08,6:14,Tuesday,sheppard west,MUTO,5,9,N,YU,6066
+2022,January,2022-01-17,21:30,Monday,sheppard west,MUFM,291,294,S,YU,0
 2025,January,2025-01-20,14:37,Monday,sheppard west,PUSAC,21,24,N,YU,5701
 2022,July,2022-07-24,9:36,Sunday,sheppard west,MUO,60,66,N,YU,5421
 2024,March,2024-03-01,5:35,Friday,sheppard west,PUTOE,41,48,S,YU,6106
@@ -13326,6 +13504,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,November,2025-11-17,1:21,Monday,sheppard-yonge,SUDP,30,35,E,SHP,6146
 2025,August,2025-08-16,2:31,Saturday,sheppard-yonge,TUMVS,31,36,W,SHP,6141
 2025,January,2025-01-25,15:12,Saturday,sheppard-yonge,SUPOL,34,41,W,SHP,6186
+2025,June,2025-06-22,9:32,Sunday,sheppard-yonge,PUSSW,65,70,E,SHP,6176
+2025,February,2025-02-08,14:01,Saturday,sheppard-yonge,MUPLB,87,94,E,SHP,6191
+2025,November,2025-11-11,11:28,Tuesday,sheppard-yonge,PUSTS,156,161,W,SHP,6171
 2024,January,2024-01-25,23:12,Thursday,sheppard-yonge,SUO,5,10,N,YU,5976
 2024,February,2024-02-12,17:36,Monday,sheppard-yonge,TUMVS,5,12,W,SHP,6146
 2024,March,2024-03-04,22:12,Monday,sheppard-yonge,EUSC,5,12,E,SHP,6161
@@ -13380,6 +13561,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,October,2024-10-06,8:14,Sunday,sheppard-yonge,PUTWZ,31,0,E,SHP,6151
 2024,November,2024-11-29,16:23,Friday,sheppard-yonge,MUO,38,45,W,SHP,6116
 2024,November,2024-11-29,17:16,Friday,sheppard-yonge,MUPLB,46,53,W,SHP,6196
+2024,January,2024-01-14,7:53,Sunday,sheppard-yonge,PUTWZ,61,0,E,SHP,6166
+2024,December,2024-12-14,8:39,Saturday,sheppard-yonge,MUPLB,63,70,W,SHP,6141
 2023,January,2023-01-08,2:35,Sunday,sheppard-yonge,TUMVS,5,10,W,SHP,6146
 2023,January,2023-01-28,10:04,Saturday,sheppard-yonge,TUMVS,5,10,W,SHP,6146
 2023,March,2023-03-02,12:07,Thursday,sheppard-yonge,SUG,5,10,E,SHP,6156
@@ -13442,6 +13625,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,May,2023-05-10,23:26,Wednesday,sheppard-yonge,MUPF,31,38,E,SHP,6196
 2023,December,2023-12-09,15:29,Saturday,sheppard-yonge,SUPOL,42,49,W,SHP,5171
 2023,December,2023-12-31,14:57,Sunday,sheppard-yonge,MUO,51,58,W,SHP,6171
+2023,January,2023-01-02,0:37,Monday,sheppard-yonge,MUPLB,76,81,E,SHP,6166
+2023,December,2023-12-17,16:58,Sunday,sheppard-yonge,PUSTS,139,146,W,SHP,6171
 2022,January,2022-01-17,17:08,Monday,sheppard-yonge,TUNOA,5,10,E,SHP,6171
 2022,January,2022-01-17,20:59,Monday,sheppard-yonge,TUNOA,5,10,E,SHP,6176
 2022,January,2022-01-20,20:00,Thursday,sheppard-yonge,MUDD,5,10,E,SHP,6161
@@ -13524,6 +13709,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,April,2022-04-24,14:07,Sunday,sheppard-yonge,SUO,20,25,W,SHP,6151
 2022,February,2022-02-06,13:14,Sunday,sheppard-yonge,SUAE,21,26,W,SHP,6191
 2022,November,2022-11-27,18:52,Sunday,sheppard-yonge,SUDP,24,29,E,SHP,6151
+2022,March,2022-03-23,9:22,Wednesday,sheppard-yonge,PUSRA,220,225,E,SHP,6166
 2021,February,2021-02-07,23:46,Sunday,sheppard-yonge,EUDO,5,10,E,SHP,6146
 2021,February,2021-02-11,16:15,Thursday,sheppard-yonge,EUDO,5,10,E,SHP,6166
 2021,February,2021-02-26,13:48,Friday,sheppard-yonge,PUSTS,5,10,E,SHP,6151
@@ -13640,6 +13826,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,January,2024-01-03,17:30,Wednesday,sherbourne,MUPR1,26,29,W,BD,5244
 2024,July,2024-07-11,23:18,Thursday,sherbourne,SUAE,30,35,E,BD,5030
 2024,November,2024-11-19,0:24,Tuesday,sherbourne,MUD,43,48,E,BD,5227
+2024,April,2024-04-26,12:06,Friday,sherbourne,SUPOL,217,222,W,BD,5273
 2023,February,2023-02-10,14:26,Friday,sherbourne,MUDD,5,8,W,BD,5336
 2023,March,2023-03-25,21:59,Saturday,sherbourne,SUO,5,10,E,BD,5024
 2023,March,2023-03-26,21:15,Sunday,sherbourne,SUDP,5,11,W,BD,5189
@@ -13672,6 +13859,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,January,2023-01-08,17:40,Sunday,sherbourne,MUI,19,24,W,BD,5079
 2023,August,2023-08-13,21:26,Sunday,sherbourne,SUDP,27,32,W,BD,5116
 2023,August,2023-08-17,1:23,Thursday,sherbourne,SUO,56,61,W,BD,5086
+2023,August,2023-08-11,16:47,Friday,sherbourne,SUO,71,74,E,BD,5197
+2023,February,2023-02-24,15:18,Friday,sherbourne,MUPR1,120,123,E,BD,5319
 2022,January,2022-01-24,17:31,Monday,sherbourne,SUDP,5,9,E,BD,5297
 2022,February,2022-02-08,15:18,Tuesday,sherbourne,SUDP,5,9,W,BD,5151
 2022,February,2022-02-26,11:03,Saturday,sherbourne,EUNT,5,9,W,BD,5089
@@ -13957,6 +14146,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,January,2022-01-26,14:31,Wednesday,spadina,MUPLB,37,41,E,BD,5027
 2022,December,2022-12-18,18:06,Sunday,spadina,SUO,40,45,E,BD,5233
 2022,May,2022-05-12,5:59,Thursday,spadina,MUPR1,60,65,W,BD,5358
+2022,November,2022-11-08,16:02,Tuesday,spadina,MUPR1,148,151,E,BD,5131
 2021,February,2021-02-08,22:30,Monday,spadina,MUSAN,5,11,E,BD,5158
 2021,February,2021-02-26,15:41,Friday,spadina,MUI,5,9,E,BD,5056
 2021,June,2021-06-10,7:17,Thursday,spadina,MUD,5,9,W,BD,5119
@@ -14146,6 +14336,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,June,2023-06-18,19:14,Sunday,spadina,SUO,26,32,S,YU,5561
 2023,April,2023-04-17,15:30,Monday,spadina,SUUT,29,32,S,YU,6126
 2023,May,2023-05-30,5:30,Tuesday,spadina,EUVE,42,0,S,YU,5401
+2023,March,2023-03-11,11:37,Saturday,spadina,MUPR1,106,110,S,YU,5891
 2022,January,2022-01-06,6:38,Thursday,spadina,PUOPO,5,8,S,YU,5611
 2022,January,2022-01-28,8:07,Friday,spadina,PUOPO,5,8,N,YU,5576
 2022,February,2022-02-20,16:03,Sunday,spadina,PUOPO,5,10,N,YU,5881
@@ -14299,6 +14490,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,March,2025-03-07,14:09,Friday,st andrew,MUPR1,21,26,N,YU,5806
 2025,April,2025-04-29,14:41,Tuesday,st andrew,MUI,22,27,N,YU,5556
 2025,August,2025-08-09,19:24,Saturday,st andrew,SUO,39,44,S,YU,5763
+2025,August,2025-08-29,16:08,Friday,st andrew,MUPR1,78,83,N,YU,5761
 2024,April,2024-04-04,21:53,Thursday,st andrew,MUSAN,5,10,N,YU,5716
 2024,May,2024-05-10,19:49,Friday,st andrew,MUIR,5,10,N,YU,5491
 2024,May,2024-05-30,1:38,Thursday,st andrew,MUSAN,5,10,S,YU,5556
@@ -14395,6 +14587,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,November,2023-11-20,23:15,Monday,st andrew,MUIR,20,26,S,YU,6016
 2023,February,2023-02-07,6:20,Tuesday,st andrew,MUIR,23,26,N,YU,5872
 2023,September,2023-09-24,14:02,Sunday,st andrew,SUUT,39,43,S,YU,5551
+2023,June,2023-06-01,20:40,Thursday,st andrew,MUPR1,64,68,N,YU,5606
+2023,January,2023-01-21,14:37,Saturday,st andrew,MUO,177,181,N,YU,5541
 2022,January,2022-01-17,6:43,Monday,st andrew,MUATC,5,9,N,YU,5741
 2022,March,2022-03-04,23:58,Friday,st andrew,MUSAN,5,10,N,YU,5606
 2022,March,2022-03-28,22:30,Monday,st andrew,EUNT,5,10,N,YU,5961
@@ -14427,6 +14621,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2021,July,2021-07-04,0:42,Sunday,st andrew,EUVE,5,12,N,YU,0
 2021,July,2021-07-07,22:42,Wednesday,st andrew,SUDP,5,12,N,YU,6066
 2023,September,2023-09-30,0:02,Saturday,st clair,PUTO,14,20,N,YU,6051
+2026,January,2026-01-26,5:54,Monday,st clair,PUTIS,708,0,N,YU,6000
 2025,January,2025-01-10,13:36,Friday,st clair,PUOPO,5,9,N,YU,5761
 2025,January,2025-01-15,19:44,Wednesday,st clair,SUDP,5,7,N,YU,5956
 2025,January,2025-01-15,1:26,Wednesday,st clair,SUDP,5,11,S,YU,5733
@@ -14952,6 +15147,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,March,2025-03-03,13:03,Monday,st clair west,MUSAN,26,31,N,YU,5771
 2025,April,2025-04-05,7:17,Saturday,st clair west,TUCC,27,0,S,YU,5731
 2025,July,2025-07-02,19:09,Wednesday,st clair west,SUDP,28,32,N,YU,5911
+2025,August,2025-08-13,6:02,Wednesday,st clair west,PUTWZ,97,100,N,YU,5436
+2026,January,2026-01-26,6:00,Monday,st clair west,PUTIS,505,0,S,YU,6000
 2024,January,2024-01-19,17:40,Friday,st clair west,MUPAA,5,8,N,YU,5576
 2024,January,2024-01-25,7:53,Thursday,st clair west,MUPAA,5,8,S,YU,5386
 2024,March,2024-03-22,23:34,Friday,st clair west,SUUT,5,10,S,YU,6121
@@ -15124,6 +15321,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,July,2023-07-04,0:00,Tuesday,st clair west,SUUT,18,25,S,YU,5706
 2023,December,2023-12-19,18:55,Tuesday,st clair west,SUO,22,27,N,YU,5426
 2023,February,2023-02-10,0:10,Friday,st clair west,SUO,36,41,N,YU,5976
+2023,December,2023-12-11,10:21,Monday,st clair west,MUPR1,110,113,N,YU,5626
 2022,January,2022-01-02,20:26,Sunday,st clair west,SUAP,5,12,S,YU,5531
 2022,January,2022-01-24,22:37,Monday,st clair west,SUEAS,5,10,N,YU,6116
 2022,February,2022-02-13,21:10,Sunday,st clair west,SUDP,5,12,N,YU,5551
@@ -15209,6 +15407,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,June,2022-06-20,10:02,Monday,st clair west,MUPR1,36,39,S,YU,5711
 2022,January,2022-01-18,6:06,Tuesday,st clair west,MUNOA,40,0,S,YU,5731
 2022,November,2022-11-16,15:34,Wednesday,st clair west,MUI,46,49,N,YU,5946
+2022,January,2022-01-17,9:56,Monday,st clair west,MUATC,73,76,N,YU,5906
+2022,May,2022-05-20,13:05,Friday,st clair west,PUTTP,98,101,S,YU,5751
 2021,February,2021-02-20,10:14,Saturday,st clair west,SUDP,5,10,S,YU,6086
 2021,February,2021-02-26,0:20,Friday,st clair west,MUIR,5,10,N,YU,6121
 2021,March,2021-03-24,18:47,Wednesday,st clair west,TUO,5,9,S,YU,5991
@@ -15294,6 +15494,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,January,2025-01-13,15:54,Monday,st george,MUPLB,27,30,E,BD,5195
 2025,February,2025-02-14,14:49,Friday,st george,SUUT,30,34,W,BD,5209
 2025,January,2025-01-17,8:26,Friday,st george,MUI,54,57,E,BD,5163
+2025,May,2025-05-29,7:34,Thursday,st george,PUSTC,87,89,E,BD,5104
 2024,January,2024-01-14,23:33,Sunday,st george,SUDP,5,11,E,BD,5344
 2024,January,2024-01-18,11:58,Thursday,st george,EUNT,5,9,E,BD,5366
 2024,January,2024-01-29,16:29,Monday,st george,MUDD,5,8,W,BD,5160
@@ -15438,6 +15639,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,August,2023-08-03,21:29,Thursday,st george,TUMVS,23,28,W,BD,5229
 2023,September,2023-09-25,17:48,Monday,st george,SUDP,29,32,W,BD,5272
 2023,June,2023-06-23,21:52,Friday,st george,MUO,60,68,E,BD,5298
+2023,May,2023-05-30,12:59,Tuesday,st george,PUEO,66,68,W,BD,5113
+2023,July,2023-07-24,11:08,Monday,st george,MUPLB,133,138,W,BD,5298
 2022,January,2022-01-26,19:42,Wednesday,st george,SUUT,5,9,E,BD,5036
 2022,January,2022-01-31,17:08,Monday,st george,SUAP,5,9,W,BD,5089
 2022,February,2022-02-28,22:15,Monday,st george,SUDP,5,12,E,BD,5225
@@ -15495,6 +15698,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,April,2022-04-19,23:31,Tuesday,st george,SUAP,25,30,E,BD,5268
 2022,April,2022-04-08,18:27,Friday,st george,SUUT,32,36,W,BD,5336
 2022,April,2022-04-02,1:00,Saturday,st george,SUSP,60,67,W,BD,5133
+2022,November,2022-11-15,18:22,Tuesday,st george,MUPR1,141,144,E,BD,5068
 2021,January,2021-01-29,8:10,Friday,st george,MUIR,5,8,W,BD,5324
 2021,May,2021-05-17,14:06,Monday,st george,EUDO,5,9,W,BD,5355
 2021,July,2021-07-31,6:07,Saturday,st george,EUDO,5,10,W,BD,5199
@@ -15716,6 +15920,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,March,2024-03-03,21:40,Sunday,st george,SUDP,32,38,S,YU,5696
 2024,March,2024-03-23,7:20,Saturday,st george,MUPR1,32,38,N,YU,5601
 2024,November,2024-11-12,21:18,Tuesday,st george,MUPLB,40,44,N,YU,5976
+2024,April,2024-04-10,23:59,Wednesday,st george,SUUT,61,66,S,YU,5446
+2024,April,2024-04-17,14:18,Wednesday,st george,PUSSW,115,121,N,YU,6126
 2023,January,2023-01-01,18:59,Sunday,st george,MUPAA,5,10,N,YU,5851
 2023,February,2023-02-24,16:40,Friday,st george,SUO,5,8,N,YU,5576
 2023,February,2023-02-25,21:45,Saturday,st george,SUDP,5,10,N,YU,5461
@@ -15811,6 +16017,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,February,2023-02-04,8:05,Saturday,st george,MUPLB,28,34,S,YU,5496
 2023,February,2023-02-04,16:11,Saturday,st george,MUPLB,31,35,S,YU,6076
 2023,February,2023-02-05,16:26,Sunday,st george,MUPLB,46,50,S,YU,5756
+2023,July,2023-07-24,11:08,Monday,st george,MUPLB,133,138,N,YU,6086
 2022,January,2022-01-01,11:17,Saturday,st george,TUO,5,10,S,YU,5936
 2022,January,2022-01-07,0:57,Friday,st george,PUOPO,5,10,N,YU,5831
 2022,January,2022-01-28,16:35,Friday,st george,SUDP,5,8,S,YU,6091
@@ -16011,6 +16218,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,January,2025-01-06,15:26,Monday,st patrick,SUUT,20,24,S,YU,5981
 2025,May,2025-05-05,13:52,Monday,st patrick,MUIR,21,25,S,YU,5671
 2025,January,2025-01-22,22:47,Wednesday,st patrick,SUEAS,22,28,S,YU,6081
+2025,January,2025-01-03,23:21,Friday,st patrick,MUPR1,90,96,N,YU,5441
 2024,February,2024-02-17,19:57,Saturday,st patrick,MUPAA,5,10,S,YU,5886
 2024,April,2024-04-04,17:15,Thursday,st patrick,MUPAA,5,8,N,YU,5456
 2024,April,2024-04-29,10:39,Monday,st patrick,MUSAN,5,10,N,YU,5901
@@ -16094,6 +16302,10 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,January,2023-01-07,20:12,Saturday,st patrick,SUO,22,27,S,YU,5776
 2023,January,2023-01-22,21:26,Sunday,st patrick,SUDP,22,28,S,YU,6071
 2023,September,2023-09-18,6:55,Monday,st patrick,PUTDN,30,33,S,YU,5516
+2023,August,2023-08-29,17:48,Tuesday,st patrick,SUUT,92,96,S,YU,5546
+2023,October,2023-10-17,16:59,Tuesday,st patrick,SUBT,92,95,S,YU,5701
+2023,April,2023-04-21,14:01,Friday,st patrick,MUPR1,126,130,S,YU,6081
+2023,December,2023-12-17,13:33,Sunday,st patrick,MUPR1,132,136,S,YU,5701
 2022,July,2022-07-01,5:37,Friday,st patrick,TUATC,5,0,S,YU,5656
 2022,August,2022-08-25,21:57,Thursday,st patrick,MUIR,5,10,S,YU,5971
 2022,October,2022-10-17,20:35,Monday,st patrick,SUO,5,8,S,SHP,5511
@@ -16284,6 +16496,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,May,2024-05-08,17:02,Wednesday,summerhill,MUPLB,29,32,N,YU,5571
 2024,December,2024-12-17,14:57,Tuesday,summerhill,SUAP,29,33,S,YU,6116
 2024,July,2024-07-18,7:32,Thursday,summerhill,SUUT,34,37,S,YU,5556
+2024,May,2024-05-23,9:15,Thursday,summerhill,MUPLB,70,73,N,YU,6016
 2023,February,2023-02-09,0:12,Thursday,summerhill,MUSAN,5,10,S,YU,6101
 2023,February,2023-02-10,11:24,Friday,summerhill,MUPAA,5,8,S,YU,6091
 2023,March,2023-03-24,10:02,Friday,summerhill,PUOPO,5,8,S,YU,5991
@@ -16351,6 +16564,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,May,2023-05-27,11:26,Saturday,summerhill,SUEAS,18,23,N,YU,6091
 2023,March,2023-03-29,20:57,Wednesday,summerhill,SUO,19,21,N,YU,5686
 2023,October,2023-10-08,18:30,Sunday,summerhill,SUUT,29,35,N,YU,5806
+2023,February,2023-02-08,16:13,Wednesday,summerhill,SUUT,71,74,S,YU,6096
+2023,March,2023-03-06,14:44,Monday,summerhill,MUPR1,124,127,N,YU,5456
 2022,January,2022-01-06,8:07,Thursday,summerhill,MUATC,5,8,S,YU,5851
 2022,January,2022-01-16,21:15,Sunday,summerhill,MUPAA,5,12,S,YU,5906
 2022,April,2022-04-22,20:17,Friday,summerhill,SUDP,5,8,S,YU,5611
@@ -16520,6 +16735,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,April,2025-04-05,5:55,Saturday,union,TUCC,32,0,N,YU,5776
 2025,July,2025-07-22,1:07,Tuesday,union,EUBK,35,41,N,YU,6096
 2025,October,2025-10-07,8:54,Tuesday,union,MUPLB,35,38,N,YU,5956
+2025,July,2025-07-17,16:23,Thursday,union,MUPLB,70,72,N,YU,6121
+2025,July,2025-07-20,16:51,Sunday,union,EUBK,80,86,S,YU,6021
+2026,January,2026-01-23,8:43,Friday,union,MUPR1,112,114,N,YU,5831
 2024,January,2024-01-06,17:34,Saturday,union,SUUT,5,9,N,YU,5516
 2024,January,2024-01-21,18:16,Sunday,union,PUOPO,5,11,N,YU,5616
 2024,January,2024-01-23,11:34,Tuesday,union,MUSAN,5,10,N,YU,5391
@@ -16707,6 +16925,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,November,2023-11-01,23:04,Wednesday,union,SUO,24,29,N,YU,5886
 2023,December,2023-12-06,22:51,Wednesday,union,SUO,33,38,S,YU,5511
 2023,September,2023-09-01,21:48,Friday,union,MUPLB,44,49,N,YU,6131
+2023,August,2023-08-29,19:19,Tuesday,union,SUUT,90,93,N,YU,5811
+2023,January,2023-01-21,16:39,Saturday,union,PUTR,179,183,N,YU,5786
 2022,January,2022-01-02,12:18,Sunday,union,PUSAC,5,10,S,YU,5766
 2022,January,2022-01-22,14:52,Saturday,union,SUUT,5,9,N,YU,5876
 2022,February,2022-02-03,23:03,Thursday,union,TUO,5,8,N,YU,5626
@@ -16763,6 +16983,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,July,2022-07-09,16:37,Saturday,union,SUO,20,26,S,YU,5526
 2022,December,2022-12-28,0:30,Wednesday,union,MUI,23,28,N,YU,6041
 2022,November,2022-11-23,7:11,Wednesday,union,SUO,34,36,N,YU,5656
+2022,February,2022-02-12,23:18,Saturday,union,MUPR1,70,77,N,YU,5706
+2022,August,2022-08-13,11:55,Saturday,union,SUSP,108,114,N,YU,5566
+2022,July,2022-07-16,19:37,Saturday,union,SUPOL,116,121,S,YU,5476
 2021,January,2021-01-25,10:36,Monday,union,SUDP,5,8,N,YU,5446
 2021,May,2021-05-15,21:39,Saturday,union,MUIR,5,10,N,YU,5941
 2021,May,2021-05-25,12:08,Tuesday,union,TUO,5,10,N,YU,5771
@@ -16775,6 +16998,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,July,2024-07-09,22:21,Tuesday,union,SUDP,6,11,N,YU,5771
 2026,January,2026-01-01,22:15,Thursday,union,MUPAA,6,11,N,YU,5916
 2023,May,2023-05-18,17:48,Thursday,union,MUIR,6,9,S,YU,5076
+2022,December,2022-12-15,6:06,Thursday,union,PUSSW,62,65,N,YU,5886
 2022,December,2022-12-07,5:56,Wednesday,union,PUTWZ,5,0,N,YU,5476
 2021,June,2021-06-10,7:29,Thursday,union,EUDO,5,8,N,YU,5691
 2024,March,2024-03-19,8:44,Tuesday,union,SUO,6,9,N,YU,5686
@@ -17141,6 +17365,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,November,2022-11-09,20:22,Wednesday,vaughan metropolitan centre,MUO,27,31,S,YU,5571
 2022,January,2022-01-16,7:50,Sunday,vaughan metropolitan centre,PUTWZ,51,55,S,YU,6041
 2022,September,2022-09-06,9:48,Tuesday,vaughan metropolitan centre,PUTSM,57,60,N,YU,6021
+2022,May,2022-05-28,17:41,Saturday,vaughan metropolitan centre,SUBT,125,131,N,YU,6061
 2021,January,2021-01-01,8:33,Friday,vaughan metropolitan centre,MUATC,5,10,S,YU,5426
 2021,January,2021-01-02,18:34,Saturday,vaughan metropolitan centre,MUI,5,10,S,YU,5876
 2021,January,2021-01-02,21:20,Saturday,vaughan metropolitan centre,TUNOA,5,10,S,YU,5936
@@ -17289,6 +17514,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,April,2025-04-28,18:36,Monday,victoria park,PUSSW,48,51,E,BD,5197
 2025,June,2025-06-11,13:56,Wednesday,victoria park,PUSSW,49,53,W,BD,5128
 2025,July,2025-07-24,9:19,Thursday,victoria park,MUPLB,52,56,W,BD,5086
+2026,January,2026-01-30,9:16,Friday,victoria park,PUTR,141,144,W,BD,5078
+2026,January,2026-01-25,15:21,Sunday,victoria park,PUTIS,661,665,E,BD,5344
 2024,January,2024-01-20,19:40,Saturday,victoria park,MUO,5,9,E,BD,5039
 2024,March,2024-03-12,9:40,Tuesday,victoria park,TUO,5,9,E,YU,5033
 2024,March,2024-03-28,6:02,Thursday,victoria park,PUSI,5,10,W,BD,5036
@@ -17435,6 +17662,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,November,2023-11-26,8:06,Sunday,victoria park,EUVE,26,0,W,BD,5078
 2023,April,2023-04-21,9:11,Friday,victoria park,MUPLB,32,35,E,BD,5357
 2023,March,2023-03-22,20:42,Wednesday,victoria park,SUUT,42,46,E,BD,5110
+2023,October,2023-10-07,1:37,Saturday,victoria park,MUI,61,67,E,BD,5160
 2022,January,2022-01-19,7:03,Wednesday,victoria park,EUPI,5,9,W,BD,5089
 2022,May,2022-05-10,1:50,Tuesday,victoria park,SUPOL,5,12,E,BD,5194
 2022,July,2022-07-10,9:25,Sunday,victoria park,EUDO,5,10,W,BD,5141
@@ -17505,6 +17733,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,January,2022-01-24,23:33,Monday,victoria park,MUPLB,50,57,E,BD,5163
 2022,June,2022-06-30,18:17,Thursday,victoria park,SUUT,53,57,E,BD,5192
 2022,September,2022-09-14,12:30,Wednesday,victoria park,SUUT,55,58,E,BD,5100
+2022,September,2022-09-01,5:45,Thursday,victoria park,EUVE,67,0,W,BD,5005
+2022,January,2022-01-18,19:29,Tuesday,victoria park,PUTIS,68,73,E,BD,5200
+2022,October,2022-10-18,9:36,Tuesday,victoria park,MUPF,99,102,W,BD,5355
 2021,April,2021-04-21,18:59,Wednesday,victoria park,MUPAA,5,9,W,BD,5090
 2021,April,2021-04-24,17:56,Saturday,victoria park,EUBO,5,9,W,BD,5234
 2021,May,2021-05-25,8:46,Tuesday,victoria park,TUMVS,5,9,W,BD,5133
@@ -17729,6 +17960,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,May,2025-05-25,17:35,Sunday,warden,PUTDN,44,49,W,BD,5147
 2025,November,2025-11-10,7:01,Monday,warden,PUTS,48,50,E,BD,5346
 2025,December,2025-12-29,0:20,Monday,warden,MUPLB,49,53,W,BD,5169
+2025,August,2025-08-24,8:20,Sunday,warden,PUSSW,68,72,W,BD,5080
 2024,January,2024-01-08,17:49,Monday,warden,PUSI,5,8,W,BD,5129
 2024,January,2024-01-20,19:40,Saturday,warden,MUO,5,9,W,BD,5008
 2024,January,2024-01-31,18:36,Wednesday,warden,TUCC,5,8,E,BD,5181
@@ -17818,6 +18050,10 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,April,2024-04-24,20:12,Wednesday,warden,SUO,34,39,E,BD,5032
 2024,August,2024-08-04,20:33,Sunday,warden,SUO,35,40,W,BD,5368
 2024,July,2024-07-09,11:25,Tuesday,warden,SUO,44,48,E,BD,5218
+2024,December,2024-12-04,13:03,Wednesday,warden,MUPLB,87,91,W,BD,5020
+2024,January,2024-01-04,11:10,Thursday,warden,PUSSW,92,96,E,BD,5093
+2024,January,2024-01-20,12:56,Saturday,warden,MUPR1,102,106,W,BD,5089
+2024,December,2024-12-13,7:45,Friday,warden,PUTR,112,116,W,BD,5248
 2023,January,2023-01-02,16:31,Monday,warden,PUSNT,5,9,E,BD,5135
 2023,February,2023-02-02,6:19,Thursday,warden,EUNT,5,8,E,BD,5163
 2023,February,2023-02-09,18:46,Thursday,warden,MUDD,5,8,W,BD,5101
@@ -17883,6 +18119,10 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,July,2023-07-01,21:08,Saturday,warden,MUI,30,35,E,BD,5289
 2023,June,2023-06-07,13:47,Wednesday,warden,SUAP,31,35,E,BD,5122
 2023,December,2023-12-15,19:53,Friday,warden,SUO,34,39,E,BD,5017
+2023,October,2023-10-16,17:12,Monday,warden,SUEAS,66,69,W,BD,5068
+2023,October,2023-10-12,21:06,Thursday,warden,MUPR1,79,84,E,BD,5075
+2023,June,2023-06-05,9:44,Monday,warden,PUSSW,137,141,E,BD,5018
+2023,May,2023-05-01,18:14,Monday,warden,MUPR1,195,200,W,BD,5366
 2022,January,2022-01-14,23:13,Friday,warden,MUI,5,12,E,BD,5013
 2022,January,2022-01-22,15:10,Saturday,warden,TUMVS,5,9,W,BD,5027
 2022,March,2022-03-09,16:04,Wednesday,warden,MUO,5,9,W,BD,5302
@@ -17957,6 +18197,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,May,2022-05-19,9:29,Thursday,warden,PUSSW,41,45,W,BD,5104
 2022,January,2022-01-30,21:42,Sunday,warden,EUBK,44,51,W,BD,5012
 2022,May,2022-05-14,22:02,Saturday,warden,MUPR1,44,50,W,BD,5267
+2022,February,2022-02-02,18:17,Wednesday,warden,MUPLB,96,100,W,BD,5084
 2021,January,2021-01-04,17:46,Monday,warden,MUPAA,5,8,W,BD,5355
 2021,February,2021-02-04,13:47,Thursday,warden,SUUT,5,8,E,BD,5332
 2021,February,2021-02-19,13:26,Friday,warden,SUUT,5,9,E,BD,5208
@@ -18038,6 +18279,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,December,2025-12-14,9:28,Sunday,wellesley,SUDP,16,22,S,YU,5711
 2025,August,2025-08-13,13:50,Wednesday,wellesley,MUI,17,21,N,YU,6001
 2025,May,2025-05-14,18:15,Wednesday,wellesley,SUPOL,22,24,S,YU,5561
+2025,March,2025-03-31,23:24,Monday,wellesley,MUPR1,140,146,S,YU,5741
 2024,January,2024-01-25,16:50,Thursday,wellesley,MUPAA,5,8,N,YU,5936
 2024,January,2024-01-29,10:03,Monday,wellesley,MUPAA,5,8,S,YU,5741
 2024,March,2024-03-15,18:47,Friday,wellesley,PUOPO,5,8,N,YU,5466
@@ -18127,6 +18369,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,February,2024-02-11,17:36,Sunday,wellesley,SUUT,26,32,N,YU,5991
 2024,October,2024-10-04,0:15,Friday,wellesley,SUUT,30,36,S,YU,5836
 2024,July,2024-07-10,9:07,Wednesday,wellesley,MUPLB,38,43,N,YU,5951
+2024,April,2024-04-22,16:41,Monday,wellesley,SUAP,92,95,S,YU,5421
 2023,January,2023-01-13,22:13,Friday,wellesley,SUDP,5,10,S,YU,5526
 2023,January,2023-01-15,17:49,Sunday,wellesley,MUPAA,5,9,S,YU,5766
 2023,February,2023-02-03,9:53,Friday,wellesley,EULT,5,8,S,YU,5481
@@ -18424,6 +18667,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,December,2025-12-21,10:20,Sunday,wilson,MUPLB,32,37,N,YU,5856
 2026,January,2026-01-11,13:37,Sunday,wilson,MUPLB,34,38,N,YU,5956
 2025,September,2025-09-16,5:54,Tuesday,wilson,PUTWZ,52,0,S,YU,5516
+2025,April,2025-04-27,7:42,Sunday,wilson,PUTWZ,78,0,S,YU,5491
+2026,January,2026-01-11,19:42,Sunday,wilson,PUSAC,78,83,S,YU,5546
+2025,February,2025-02-17,5:54,Monday,wilson,PUSSW,119,0,N,YU,5731
 2024,January,2024-01-12,16:28,Friday,wilson,MUNOA,5,10,S,YU,5000
 2024,January,2024-01-12,0:16,Friday,wilson,MUSAN,5,10,S,YU,5486
 2024,January,2024-01-17,21:05,Wednesday,wilson,PUTIS,5,10,S,YU,6026
@@ -18666,6 +18912,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,September,2023-09-26,11:28,Tuesday,wilson,SUUT,35,40,S,YU,5911
 2023,September,2023-09-17,1:26,Sunday,wilson,PUTDN,49,57,N,YU,5521
 2023,January,2023-01-21,22:22,Saturday,wilson,MUPR1,55,61,S,YU,5416
+2023,October,2023-10-03,12:32,Tuesday,wilson,PUTO,62,67,S,YU,5886
+2023,September,2023-09-24,12:58,Sunday,wilson,PUSSW,69,73,N,YU,5721
+2023,October,2023-10-27,21:59,Friday,wilson,PUSSW,90,96,N,YU,5421
 2022,January,2022-01-03,5:44,Monday,wilson,EUYRD,5,0,S,YU,6026
 2022,January,2022-01-06,9:15,Thursday,wilson,PUOPO,5,8,N,YU,5581
 2022,January,2022-01-14,9:20,Friday,wilson,PUOPO,5,8,S,YU,5406
@@ -18764,6 +19013,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,April,2022-04-27,22:35,Wednesday,wilson,SUUT,24,29,N,YU,6036
 2022,September,2022-09-15,12:18,Thursday,wilson,EUVA,30,33,S,YU,5831
 2022,February,2022-02-27,8:19,Sunday,wilson,PUTWZ,49,55,S,YU,6096
+2022,December,2022-12-16,10:00,Friday,wilson,MUPLB,93,96,S,YU,5921
+2022,May,2022-05-22,11:55,Sunday,wilson,SUSP,118,123,N,YU,5996
+2022,August,2022-08-21,14:40,Sunday,wilson,MUPR1,128,133,N,YU,5461
 2021,January,2021-01-14,21:28,Thursday,wilson,SUDP,5,10,S,YU,6081
 2021,January,2021-01-15,0:15,Friday,wilson,MUTO,5,10,N,YU,6026
 2021,January,2021-01-16,6:49,Saturday,wilson,EUBK,5,10,N,YU,5466
@@ -18824,6 +19076,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,July,2025-07-24,1:58,Thursday,woodbine,SUDP,24,30,E,BD,5237
 2025,June,2025-06-04,13:43,Wednesday,woodbine,SUUT,27,31,E,BD,5338
 2026,January,2026-01-29,1:35,Thursday,woodbine,MUI,30,35,E,BD,5062
+2025,December,2025-12-06,13:32,Saturday,woodbine,PUMO,152,156,E,BD,5097
+2026,January,2026-01-26,5:50,Monday,woodbine,PUTIS,827,0,W,BD,5239
 2024,January,2024-01-30,5:50,Tuesday,woodbine,PUTWZ,5,0,W,BD,5146
 2024,April,2024-04-09,17:19,Tuesday,woodbine,TUS,5,8,E,BD,5359
 2024,April,2024-04-15,15:14,Monday,woodbine,SUO,5,8,W,BD,5313
@@ -18863,6 +19117,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,October,2024-10-15,20:17,Tuesday,woodbine,MUPLB,32,37,W,BD,5003
 2024,May,2024-05-23,11:38,Thursday,woodbine,SUDP,43,47,W,BD,5177
 2024,May,2024-05-09,7:00,Thursday,woodbine,EUVE,47,53,W,BD,5093
+2024,August,2024-08-06,23:37,Tuesday,woodbine,EUVE,151,156,E,BD,5071
 2023,January,2023-01-04,16:44,Wednesday,woodbine,EUDO,5,8,W,BD,5010
 2023,January,2023-01-12,14:47,Thursday,woodbine,SUDP,5,8,W,BD,5006
 2023,January,2023-01-25,5:50,Wednesday,woodbine,EUCD,5,0,W,BD,5070
@@ -18919,6 +19174,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,October,2022-10-21,16:05,Friday,woodbine,MUI,20,23,W,BD,5275
 2022,February,2022-02-11,18:23,Friday,woodbine,SUUT,21,25,W,BD,5192
 2022,January,2022-01-09,13:57,Sunday,woodbine,MUPR1,58,63,W,BD,5256
+2022,November,2022-11-22,4:54,Tuesday,woodbine,PUMO,72,0,E,BD,5360
+2022,April,2022-04-13,5:41,Wednesday,woodbine,PUSSW,73,77,E,BD,5162
 2021,February,2021-02-10,12:12,Wednesday,woodbine,SUROB,5,8,W,BD,5354
 2021,February,2021-02-16,18:01,Tuesday,woodbine,SUDP,5,9,E,BD,5106
 2023,May,2023-05-10,12:23,Wednesday,woodbine,PUSTS,5,9,E,BD,5304
@@ -19017,6 +19274,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,May,2025-05-24,14:29,Saturday,bloor,SUO,25,29,W,BD,5205
 2025,May,2025-05-05,16:51,Monday,bloor,SUUT,26,29,W,BD,5024
 2025,December,2025-12-31,20:05,Wednesday,bloor,SUPOL,26,30,E,BD,5128
+2025,June,2025-06-10,17:28,Tuesday,bloor,MUPLB,63,67,E,BD,5061
+2025,September,2025-09-30,5:53,Tuesday,bloor,EUVE,83,0,E,BD,5304
+2025,January,2025-01-20,15:22,Monday,bloor,PUTIJ,85,88,E,BD,5203
 2024,January,2024-01-27,13:31,Saturday,bloor,SUDP,5,9,E,BD,5036
 2024,February,2024-02-02,7:12,Friday,bloor,SUDP,5,7,W,BD,5276
 2024,February,2024-02-16,9:12,Friday,bloor,SUDP,5,8,E,BD,5051
@@ -19110,6 +19370,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,January,2024-01-24,16:42,Wednesday,bloor,SUUT,36,39,W,BD,5040
 2024,August,2024-08-09,5:54,Friday,bloor,TUDOE,37,42,W,BD,5359
 2024,December,2024-12-08,14:42,Sunday,bloor,SUBT,40,44,E,BD,5099
+2024,May,2024-05-08,7:43,Wednesday,bloor,MUPLB,63,65,E,BD,5248
 2023,January,2023-01-23,16:33,Monday,bloor,MUD,5,8,W,BD,5072
 2023,January,2023-01-26,5:55,Thursday,bloor,PUTSM,5,0,W,BD,5079
 2023,January,2023-01-27,10:44,Friday,bloor,MUD,5,8,W,BD,5279
@@ -19189,6 +19450,8 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,April,2023-04-05,12:38,Wednesday,bloor,MUPLB,26,30,W,BD,5035
 2023,June,2023-06-04,22:56,Sunday,bloor,MUIR,28,34,W,BD,5354
 2023,February,2023-02-17,18:17,Friday,bloor,MUPR1,40,44,W,BD,5178
+2023,February,2023-02-28,9:10,Tuesday,bloor,PUSI,62,65,E,BD,5011
+2023,June,2023-06-28,22:40,Wednesday,bloor,MUPR1,125,133,E,BD,5001
 2022,January,2022-01-04,5:55,Tuesday,bloor,TUCC,5,0,W,BD,5226
 2022,February,2022-02-04,6:00,Friday,bloor,TUNOA,5,0,W,BD,5333
 2022,February,2022-02-07,5:51,Monday,bloor,MUO,5,0,W,BD,5153
@@ -19274,6 +19537,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,August,2022-08-29,1:41,Monday,bloor,PUTWZ,42,0,W,BD,5038
 2022,May,2022-05-08,18:44,Sunday,bloor,SUUT,49,54,W,BD,5273
 2022,December,2022-12-13,22:21,Tuesday,bloor,PUSSW,56,61,W,BD,5155
+2022,August,2022-08-30,12:19,Tuesday,bloor,PUEO,81,84,E,BD,5153
+2022,April,2022-04-17,20:59,Sunday,bloor,MUPR1,122,129,W,BD,5188
+2022,July,2022-07-26,7:06,Tuesday,bloor,MUPLB,382,386,W,BD,5354
 2021,January,2021-01-10,15:32,Sunday,bloor,MUIR,5,10,W,BD,5097
 2021,January,2021-01-22,7:47,Friday,bloor,EUBK,5,8,E,BD,5148
 2021,February,2021-02-15,15:32,Monday,bloor,SUDP,5,9,W,BD,5171
@@ -19387,6 +19653,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,July,2025-07-24,5:38,Thursday,york mills,PUTWZ,33,0,N,YU,5962
 2025,May,2025-05-15,17:21,Thursday,york mills,SUAP,38,41,S,YU,5981
 2025,February,2025-02-04,5:38,Tuesday,york mills,PUTWZ,55,0,N,YU,5896
+2025,May,2025-05-02,21:46,Friday,york mills,SUUT,61,67,N,YU,5896
 2024,January,2024-01-19,7:59,Friday,york mills,PUOPO,5,8,N,YU,5841
 2024,January,2024-01-22,20:09,Monday,york mills,MUPAA,5,8,N,YU,6021
 2024,February,2024-02-02,14:13,Friday,york mills,SUDP,5,10,N,YU,5846
@@ -19504,6 +19771,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,March,2024-03-01,5:39,Friday,york mills,PUTOE,49,0,N,YU,5446
 2024,May,2024-05-22,13:49,Wednesday,york mills,MUPLB,50,55,N,YU,5571
 2024,June,2024-06-25,5:33,Tuesday,york mills,MUPLB,59,63,N,YU,5961
+2024,June,2024-06-13,13:49,Thursday,york mills,MUPR1,75,80,N,YU,6081
 2023,January,2023-01-09,8:54,Monday,york mills,PUOPO,5,7,S,YU,5511
 2023,January,2023-01-25,0:46,Wednesday,york mills,EUO,5,10,S,YU,5426
 2023,January,2023-01-26,8:17,Thursday,york mills,TUO,5,7,S,YU,5796
@@ -19584,6 +19852,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,November,2023-11-01,7:19,Wednesday,york mills,EUAC,24,27,S,YU,5721
 2023,August,2023-08-17,13:22,Thursday,york mills,SUDP,25,30,S,YU,5901
 2023,September,2023-09-15,7:05,Friday,york mills,SUEAS,28,31,N,YU,5941
+2023,February,2023-02-07,23:20,Tuesday,york mills,SUUT,65,70,N,YU,5621
 2022,January,2022-01-03,17:43,Monday,york mills,TUOS,5,8,S,YU,5581
 2022,February,2022-02-09,5:43,Wednesday,york mills,TUCC,5,0,N,YU,6061
 2022,February,2022-02-18,9:49,Friday,york mills,TUMVS,5,8,S,YU,6076
@@ -19670,6 +19939,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2022,June,2022-06-16,22:01,Thursday,york mills,SUSA,38,43,N,YU,6096
 2022,November,2022-11-03,16:53,Thursday,york mills,MUPLB,43,46,S,YU,5451
 2022,January,2022-01-30,19:58,Sunday,york mills,SUBT,44,48,S,YU,6031
+2022,November,2022-11-02,6:36,Wednesday,york mills,EUTL,69,72,N,YU,5826
+2022,January,2022-01-30,0:08,Sunday,york mills,MUPR1,90,97,S,YU,5941
+2022,August,2022-08-04,10:43,Thursday,york mills,MUPR1,157,160,S,YU,6006
 2021,March,2021-03-26,5:45,Friday,york mills,TUO,5,10,N,YU,5516
 2021,May,2021-05-08,0:22,Saturday,york mills,MUSAN,5,10,N,YU,5451
 2021,May,2021-05-10,5:40,Monday,york mills,TUNIP,5,0,N,YU,5886
@@ -19718,6 +19990,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,September,2024-09-09,7:26,Monday,york university,SUDP,10,12,N,YU,5926
 2024,May,2024-05-25,20:23,Saturday,york university,SUO,16,21,S,YU,5601
 2024,February,2024-02-06,20:31,Tuesday,york university,MUI,27,32,N,YU,5876
+2024,December,2024-12-09,8:17,Monday,york university,SUUT,78,81,S,YU,5836
 2023,January,2023-01-30,21:35,Monday,york university,PUOPO,5,10,N,YU,5766
 2023,January,2023-01-30,21:41,Monday,york university,PUOPO,5,8,N,YU,6111
 2023,June,2023-06-13,19:34,Tuesday,york university,MUPAA,5,8,N,YU,5506
@@ -19828,6 +20101,9 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2025,March,2025-03-15,17:00,Saturday,yorkdale,PUOPO,29,33,S,YU,5981
 2025,September,2025-09-21,20:32,Sunday,yorkdale,PUSTP,30,40,S,YU,5791
 2026,January,2026-01-02,18:54,Friday,yorkdale,MUPLA,51,53,N,YU,5536
+2025,November,2025-11-13,12:53,Thursday,yorkdale,SUDP,110,114,S,YU,5576
+2026,January,2026-01-04,19:59,Sunday,yorkdale,SUPOL,150,155,N,YU,5486
+2025,January,2025-01-22,4:41,Wednesday,yorkdale,PUTTP,360,364,S,YU,5996
 2024,February,2024-02-03,11:46,Saturday,yorkdale,PUOPO,5,9,S,YU,5786
 2024,February,2024-02-06,6:55,Tuesday,yorkdale,PUOPO,5,8,S,YU,5921
 2024,February,2024-02-21,10:08,Wednesday,yorkdale,PUOPO,5,10,S,YU,5871
@@ -19898,6 +20174,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2024,September,2024-09-24,13:45,Tuesday,yorkdale,PUOPO,38,42,S,YU,5666
 2024,November,2024-11-11,12:39,Monday,yorkdale,SUBT,45,49,S,YU,5731
 2024,November,2024-11-02,22:41,Saturday,yorkdale,SUDP,50,56,N,YU,5866
+2024,December,2024-12-18,10:21,Wednesday,yorkdale,MUPR1,152,157,S,YU,5951
 2023,April,2023-04-01,17:21,Saturday,yorkdale,MUATC,5,11,S,YU,5446
 2023,May,2023-05-15,10:44,Monday,yorkdale,SUDP,5,10,N,YU,6006
 2023,June,2023-06-19,7:59,Monday,yorkdale,PUOPO,5,8,S,YU,5471
@@ -19961,6 +20238,7 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2023,April,2023-04-18,18:07,Tuesday,yorkdale,SUO,27,29,N,YU,5851
 2023,March,2023-03-23,0:07,Thursday,yorkdale,SUDP,41,46,S,YU,5631
 2023,July,2023-07-24,21:50,Monday,yorkdale,SUEAS,54,61,N,YU,5846
+2023,August,2023-08-10,8:21,Thursday,yorkdale,MUPR1,80,83,N,YU,5426
 2022,February,2022-02-01,5:59,Tuesday,yorkdale,PUOPO,5,8,S,YU,5711
 2022,February,2022-02-01,11:29,Tuesday,yorkdale,PUOPO,5,8,N,YU,5606
 2022,February,2022-02-10,11:50,Thursday,yorkdale,PUOPO,5,8,N,YU,5511
@@ -20036,3 +20314,4 @@ year,month,date,time,day,station,code,min_delay,min_gap,bound,line,vehicle
 2021,July,2021-07-27,18:04,Tuesday,yorkdale,TUO,5,8,S,YU,5431
 2021,August,2021-08-08,18:23,Sunday,yorkdale,MUO,5,10,S,YU,5856
 2026,January,2026-01-25,17:23,Sunday,yorkdale,PUTIS,5,10,N,YU,6056
+2025,July,2025-07-11,9:40,Friday,yorkdale,PUTO,65,69,N,YU,5651
