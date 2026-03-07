@@ -1,150 +1,280 @@
 # DSI-Cohort8-ML11
-# TTC Subway Delay Prediction  
----
+# TTC Subway Delay Analysis & Prediction
 
-## Project Overview
+## Purpose & Overview
 
-This project analyzes TTC subway delay data (2022–2025) to predict delay duration and identify high-delay incidents.  
+Subway delays significantly impact service reliability and passenger experience within the Toronto Transit Commission (TTC) network. Identifying the root causes of delays in real time is difficult due to the complex interactions between operational, environmental, and human factors.
 
-Our goal is to improve transit reliability by building predictive models that support TTC operations, service planning, and data-driven decision-making.
----
+This project analyzes historical TTC subway delay incidents and applies machine learning techniques to uncover patterns and predict delay causes. The objective is to transform historical operational data into actionable insights that support better transit management and service reliability.
 
-## Intended Audience
+The dataset includes over 20,000 delay incidents recorded between 2021 and 2026, containing information such as:
 
-This project is designed for:
+- Date and time of incident
+- Subway station
+- Line and direction
+- Delay duration
+- Operational delay codes
 
-- Operational Managers  
-- Team Leads  
-- Service Planning Teams  
----
-
-## Business Motivation
-
-Transit delays impact rider satisfaction, operational efficiency, and city mobility.
-
-By predicting delay duration and identifying high-delay incidents, this project aims to:
-
-- Improve operational response planning
-- Identify high-risk stations, times, and delay causes
-- Enhance overall transit reliability
+By combining data analysis, feature engineering, and machine learning models, this project identifies key factors contributing to subway delays and provides insights that can improve transit operations.
 
 ---
 
-## Dataset
+## Goals & Objectives
 
-**Dataset:** TTC Subway Delay Dataset  
-**Time Range:** 2022 – 2025  
+### Operational Goals
 
-### Key Variables
+The project aims to support transit operators by enabling data-driven operational decisions.
 
-#### Feature Variables
-- `Min Delay` (Delay duration in minutes)
-- Month / Year / Seasons (Derived from date)
-- Different Times of the Day (Derived from time)
+Key goals include:
+
+- Identify the primary causes of subway delays
+- Understand when and where delays occur most frequently
+- Detect patterns across stations, lines, and time periods
+- Provide insights that support faster response and better resource allocation
+
+### Analytical Goals
+
+From a machine learning perspective, the project aims to:
+
+- Predict delay categories based on operational conditions
+- Identify important predictive variables
+- Evaluate different machine learning models for delay prediction
+
+Key analytical questions include:
+
+- What factors contribute most to significant delays?
+- Which stations experience the highest frequency of incidents?
+- How do time-of-day and operational conditions influence delays?
+
+---
+
+## Dataset Description
+
+The dataset contains TTC subway delay incidents from 2021 to 2026.
+
+Total observations analyzed: **20,316 delay events**
+
+Main variables include:
+
+### Temporal Information
+- Year
+- Month
+- Time category (Early AM, AM Peak, Midday, PM Peak, Evening)
+
+### Operational Information
 - Station
-- Line
-- Direction
+- Subway line
+- Travel direction (bound)
 
-#### Target Variable
-- Cause of Delay
+### Delay Statistics
+- Min delay 
+- Min gap between trains
 
----
-
-## Business Questions
-
-1. What factors contribute most to significant delays?
-2. Can we classify whether a delay will exceed 5 minutes (high-delay incident)?
+These variables provide the operational context needed to analyze transit service disruptions.
 
 ---
 
-## Data Cleaning & Preprocessing Strategy
+## Techniques & Technologies
 
-### Handling Missing Values
-- “Vehicle” column contains missing values
-- “Bound” column frequently contains missing or placeholder values (e.g., “XXXXX”)
-- Strategy:
-  - Impute where appropriate
-  - Remove unusable rows
-  - Treat missing values as a separate category if necessary
-
-### Data Consistency Issues
-- Spelling errors
-- Inconsistent naming (e.g., line names)
-- Strategy:
-  - Standardize categorical values
-  - Clean and normalize text fields
-
-### Outlier Handling
-- Extreme delays exist (e.g., 716 minutes)
-- Remove delays greater than 60 minutes to focus on realistic operational scenarios
-
-### Modeling Focus
-- Focus on delays greater than 5 minutes
-- Emphasis on origin station and direction
-
----
-
-## Analysis Approach
-
-### Classification (Primary ML Focus)
-
-**Objective:** Predict high-delay incidents (> 5 minutes)
-
-- Binary target creation
-- Address class imbalance
-- Models:
-   TBC
-
----
-
-## Risks & Uncertainties
-
-- Missing or inconsistent categorical data
-- Potential bias from removing extreme outliers
-- Bound column largely missing
-
-Mitigation:
-- Robust validation strategy
-- Clear documentation of assumptions
-
----
-
-## Project Timeline
-
-**Project Deadline:** Sunday, March 8  
-**Machine Learning Focus:** Classification
-
-| Date | Task | Owner |
-|------|------|-------|
-| 2021–2025 | Reviewing Data | All |
-| Thursday, Feb 26 | Document Business Objectives / Project Plan | All |
-| Saturday, Feb 28 | Data Cleaning | Wendy |
-| Monday, March 2 | Data Preprocessing - Time & Day Categories | Nicole H |
-| Tuesday, March 3 | EDA / Feature Engineering| Nicole H / Ivy |
-| TBD | ML Development (Train/Test) | All |
-| TBD | Model Selection | All |
-| TBD | GitHub Documentation | Nicole Y / Ivy |
-
----
-
-## Technologies Used
+### Programming Tools
 
 - Python
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - Scikit-learn
-- Matplotlib / Seaborn
-- Git / GitHub
-- Jupyter Notebook
+
+### Machine Learning Models Tested
+
+Several classification algorithms were evaluated:
+
+- XGBoost
+- LightGBM
+- CatBoost
+- Random Forest
+- K-Nearest Neighbors (KNN)
+- Neural Network (MLP)
+- Logistic Regression
+- Naive Bayes
+
+Among these models, **XGBoost achieved the best predictive performance** for classifying delay categories.
 
 ---
 
-## Project Showcase
+## Feature Engineering
 
-At the end of the project, we will present:
+Several features were engineered to improve model performance.
 
-- Business motivation
-- Data exploration insights
-- Model performance comparison
-- Key recommendations
-- Future improvements
+### Numerical Features
+- hour
+- hour_sin (cyclical time representation)
+- month_num
+- year
+- min_delay
+- min_gap
+- station_freq
+
+### Categorical Features
+- time_category
+- delay_category
+- line
+- bound
+
+Feature importance analysis showed that **station-related variables and time-based characteristics are the most influential predictors of delay causes**.
+
+---
+
+## Key Findings
+
+### Time Patterns
+
+Exploratory Data Analysis shows that:
+
+- Delays tend to be higher during **PM Peak and Midday periods**
+- **Weekend delays are higher on average**
+- Typical delay duration ranges from **5 to 10 minutes**, with occasional extreme outliers
+
+### Station-Level Patterns
+
+Delay incidents vary significantly across the TTC network.
+
+Examples include:
+
+- **Bloor Station** experiencing higher security-related incidents
+- **Finch Station** showing more operator-related delays
+- **St George and Spadina** reporting higher medical incidents
+
+These patterns suggest that **passenger activity and station infrastructure influence delay frequency**.
+
+### Major Causes of Delays
+
+Key operational delay categories include:
+
+- Security incidents
+- Mechanical failures
+- Infrastructure issues
+- Operator-related incidents
+
+---
+
+## Model Performance
+
+Multiple machine learning models were evaluated using classification metrics.
+
+Example AUC results:
+
+| Model | AUC |
+|------|------|
+| XGBoost | 0.770 |
+| LightGBM | 0.768 |
+| CatBoost | 0.756 |
+| Random Forest | 0.753 |
+| KNN | 0.730 |
+| Neural Network | 0.738 |
+| Logistic Regression | 0.642 |
+| Naive Bayes | 0.628 |
+
+XGBoost achieved the strongest performance in predicting TTC delay patterns.
+
+---
+
+## Analytics Dashboard
+
+An analytics dashboard was developed to summarize operational insights.
+
+Key metrics include:
+
+- Total delay incidents analyzed: **20,316**
+- Average delay duration: **11.44 minutes**
+- High delay incidents: **5% of events**
+- Overall on-time performance: **93%**
+
+Dashboard features allow users to filter by:
+
+- Subway line
+- Station
+- Date range
+- Incident category
+
+This enables transit planners to explore delay patterns interactively.
+
+---
+
+## Project Workflow
+
+```
+1. Data Collection
+   TTC Subway Delay Dataset
+
+2. Data Cleaning
+   - Handle missing values
+   - Standardize delay codes
+   - Remove inconsistent records
+
+3. Exploratory Data Analysis
+   - Identify delay distributions
+   - Detect station and time patterns
+
+4. Feature Engineering
+   - Temporal features
+   - Operational variables
+   - Delay statistics
+
+5. Machine Learning Modeling
+   - Multi-class classification
+   - Model comparison
+
+6. Model Evaluation
+   - ROC curves
+   - AUC scores
+   - Feature importance analysis
+
+7. Visualization & Dashboard
+```
+
+---
+
+## Installation
+
+Install required Python packages:
+
+```
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost catboost lightgbm
+```
+
+---
+
+## Running the Project
+
+Run the notebooks in the following order:
+
+```
+1_data_cleaning.ipynb
+2_exploratory_data_analysis.ipynb
+3_feature_engineering.ipynb
+4_model_training.ipynb
+```
+
+---
+
+## Future Improvements
+
+Potential future enhancements include:
+
+- Incorporating **weather data**
+- Integrating **train schedule data**
+- Developing **real-time delay prediction systems**
+- Deploying models for **live transit monitoring dashboards**
+
+These improvements could help transit agencies move from historical analysis toward **real-time operational intelligence**.
+
+---
+
+## Contributors
+
+DSI Cohort 8 – Machine Learning Project - Group ML11
+Wendy Graham
+Ivy Guevarra 
+Nicole Hong
+Nicole Yeung
