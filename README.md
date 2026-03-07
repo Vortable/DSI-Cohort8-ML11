@@ -274,7 +274,7 @@ These improvements could help transit agencies move from historical analysis tow
 ## Contributors
 
 DSI Cohort 8 – Machine Learning Project - Group ML11
-Wendy Graham
-Ivy Guevarra 
-Nicole Hong
+Wendy Graham, 
+Ivy Guevarra,  
+Nicole Hong, 
 Nicole Yeung
