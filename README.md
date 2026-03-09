@@ -281,4 +281,5 @@ Nicole Yeung
 
 ## Video (Reflection)
 
-Ivy Guevarra- Link: https://youtu.be/O6hwoKkBtJg?si=Va2pc4NVGBfABm76
+Ivy Guevarra - Link: https://youtu.be/O6hwoKkBtJg?si=Va2pc4NVGBfABm76
+Nicole Hong - Link: https://youtu.be/_tkG40oNVXQ
