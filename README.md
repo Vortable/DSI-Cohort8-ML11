@@ -278,3 +278,7 @@ Wendy Graham,
 Ivy Guevarra,  
 Nicole Hong, 
 Nicole Yeung
+
+## Video (Reflection)
+
+Ivy Guevarra- Link: https://youtu.be/O6hwoKkBtJg?si=Va2pc4NVGBfABm76
