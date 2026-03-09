@@ -250,10 +250,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost catboost lightg
 Run the notebooks in the following order:
 
 ```
-1_data_cleaning.ipynb
-2_exploratory_data_analysis.ipynb
-3_feature_engineering.ipynb
-4_model_training.ipynb
+1_data_cleaning_final.ipynb
+2_eda_nicoleh.ipynb
+3_feature_engineering_nicoleh.ipynb
+4_baseline_model_development_nicoleh.ipynb
 ```
 
 ---
@@ -278,3 +278,8 @@ Wendy Graham,
 Ivy Guevarra,  
 Nicole Hong, 
 Nicole Yeung
+
+## Video (Reflection)
+
+> * Ivy Guevarra - Link: https://youtu.be/O6hwoKkBtJg?si=Va2pc4NVGBfABm76
+> * Nicole Hong - Link: https://youtu.be/_tkG40oNVXQ
