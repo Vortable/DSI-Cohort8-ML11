@@ -102,7 +102,7 @@ Among these models, **XGBoost achieved the best predictive performance** for cla
 
 ---
 
-## Feature Engineering
+## Feature Engineeringris
 
 Several features were engineered to improve model performance.
 
@@ -198,39 +198,77 @@ Dashboard features allow users to filter by:
 - Incident category
 
 This enables transit planners to explore delay patterns interactively.
+---
+
+# Project Risks & Limitations
+
+While the analysis provides valuable insights, several risks and limitations should be considered.
+
+## Data Limitations
+
+The dataset only includes **recorded delay incidents**, which means some minor operational disruptions may not be captured. In addition, the data does not include other potentially influential variables such as:
+
+- Weather conditions
+- Passenger volume
+- Special events
+- Real-time train congestion
+
+These missing factors may reduce the predictive power of the models.
+
+## Class Imbalance
+
+Some delay codes occur far more frequently than others. This imbalance can make it difficult for machine learning models to accurately predict rare delay categories.
+
+To mitigate this issue, techniques such as **class weighting and category grouping** were considered.
+
+## Model Generalization
+
+Machine learning models trained on historical data may not fully generalize to future operational changes, such as:
+
+- New transit infrastructure
+- Changes in TTC operational procedures
+- System upgrades or service expansions
+
+Continuous retraining with updated data would be necessary for a production system.
+
+## Interpretation Challenges
+
+Some delay codes represent **broad operational categories**, making it difficult to distinguish precise root causes without additional contextual data.
 
 ---
 
-## Project Workflow
+# Team Task Breakdown
+
+The project was completed through collaborative teamwork, with responsibilities divided across different stages of the machine learning pipeline.
 
 ```
-1. Data Collection
+1. Data Collection (by all team members)
    TTC Subway Delay Dataset
 
-2. Data Cleaning
+2. Data Cleaning (by Wendy Graham)
    - Handle missing values
    - Standardize delay codes
    - Remove inconsistent records
 
-3. Exploratory Data Analysis
+3. Exploratory Data Analysis (by Nicole Hong, Nicole Yeung)
    - Identify delay distributions
    - Detect station and time patterns
 
-4. Feature Engineering
+4. Feature Engineering (by Nicole Hong, Ivy Guevarra)
    - Temporal features
    - Operational variables
    - Delay statistics
 
-5. Machine Learning Modeling
+5. Machine Learning Modeling (by all team members)
    - Multi-class classification
    - Model comparison
 
-6. Model Evaluation
+6. Model Evaluation (by Nicole Hong)
    - ROC curves
    - AUC scores
    - Feature importance analysis
 
-7. Visualization & Dashboard
+7. Visualization & Dashboard (by Nicole Hong)
 ```
 
 ---
@@ -263,7 +301,7 @@ Run the notebooks in the following order:
 Potential future enhancements include:
 
 - Incorporating **weather data**
-- Integrating **train schedule data**
+- Integrating **trLinkain schedule data**
 - Developing **real-time delay prediction systems**
 - Deploying models for **live transit monitoring dashboards**
 
@@ -283,3 +321,4 @@ Nicole Yeung
 
 > * Ivy Guevarra - Link: https://youtu.be/O6hwoKkBtJg?si=Va2pc4NVGBfABm76
 > * Nicole Hong - Link: https://youtu.be/_tkG40oNVXQ
+> * Nicole Yeung - Link: https://drive.google.com/drive/folders/1424z_FXSzWeP-Ri2N4swu1tiYI5Rvf7L?usp=sharing
