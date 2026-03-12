@@ -321,4 +321,4 @@ Nicole Yeung
 
 > * Ivy Guevarra - Link: https://youtu.be/O6hwoKkBtJg?si=Va2pc4NVGBfABm76
 > * Nicole Hong - Link: https://youtu.be/_tkG40oNVXQ
-> * Nicole Yeung - Link: https://drive.google.com/drive/folders/1424z_FXSzWeP-Ri2N4swu1tiYI5Rvf7L?usp=sharing
+> * Nicole Yeung - Link: https://youtu.be/fxeWIs9RR8Q
